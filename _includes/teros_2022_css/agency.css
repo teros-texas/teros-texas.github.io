@@ -279,9 +279,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
+    font-weight: 800;
     letter-spacing: 1px;
-    color: #fff;
+    color: #bf5700;
 }
 
 .navbar-default .nav li a:hover,
@@ -292,13 +292,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #bf5700;
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #bf5700;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -445,7 +445,8 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: #3cb371;
+    /* background: #3cb371; */
+    color: #222;
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
