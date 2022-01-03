@@ -1,26 +1,19 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Yuke Zhu
+  profile_image: yuke_zhu.jpg
+  email: yukez [at] cs.utexas.edu
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Joydeep Biswas
+  profile_image: joydeep_biswas.jpg
+  email: joydeepb [at] cs.utexas.edu
 
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- name: Michelle Garel
+  profile_image: michelle_garel.jpg
+  email: michelle.garel [at] austin.utexas.edu
+
+- name: Yifeng Zhu
+  profile_image: yifeng_zhu.jpg
+  email: yifeng.zhu [at] utexas.edu
+
+- name: Josh Hoffman
+  profile_image: josh_hoffman.jpg
+  email: jbhoffman [at] utexas.edu
