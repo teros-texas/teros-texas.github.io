@@ -82,7 +82,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg.png');
+    background-image: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -363,7 +363,7 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
+    /* text-transform: uppercase;*/
     font-family: {{ site.data.template.font.primary }};
     font-size: 40px;
     font-weight: 700;
@@ -386,7 +386,7 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
+        /* text-transform: uppercase;*/
         font-family: {{ site.data.template.font.primary }};
         font-size: 75px;
         font-weight: 700;
