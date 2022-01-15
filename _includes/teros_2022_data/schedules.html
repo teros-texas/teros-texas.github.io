@@ -1,10 +1,43 @@
 <section id="schedules" class="bg-light-gray">
+  <style>
+    table.inner-borders {
+	border-collapse: collapse;
+	border-style: hidden;
+	td {
+	    border: 1px solid #5e5e5e;
+	}
+}
+  </style>
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
         <h2 class="section-heading">Schedules</h2>
         <h3 class="section-subheading text-muted"></h3>
       </div>
+    </div>
+
+    <div class="section-title">
+      <table style="width: 50%">
+    	<caption><h3>In-person schedule</h3></caption>
+    	<colgroup>
+          <col width="20%" />
+          <col width="65%" />
+    	</colgroup>
+    	<!-- <thead> -->
+        <!--   <tr class="header"> -->
+        <!--     <th>Time (24 hr)</th> -->
+        <!--     <th>Description</th> -->
+        <!--   </tr> -->
+    	<!-- </thead> -->
+    	<tbody>
+	  {% for table_item in site.data.teros_2022.in_person_agenda %}
+	  <tr>
+	    <td>{{table_item.time}} <br/></td>
+	    <td colspan="2">{{table_item.info}} <br/></td>
+	  </tr>
+	  {% endfor %}	  
+	</tbody>
+      </table>
     </div>
   </div>
 </section>
