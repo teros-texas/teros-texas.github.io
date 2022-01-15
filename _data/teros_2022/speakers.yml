@@ -1,4 +1,4 @@
-- title: Lydia
+- title: Keynote-Speaker 1
   name: Name-1
   subtitle: Professor
   img: TBD.jpg
@@ -7,7 +7,7 @@
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Keynote-Speaker 2
   name: Name-2
   subtitle: Position
   img: TBD.jpg
@@ -16,7 +16,7 @@
   topic: Topic
   description: More Info
 
-- title: Name
+- title: Keynote-Speaker 3
   name: Name-3
   subtitle: Position
   img: TBD.jpg
@@ -24,3 +24,13 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+
+- title: Keynote-Speaker 4
+  name: Name-4
+  subtitle: Position
+  img: TBD.jpg
+  thumbnail: TBD.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: More Info
+  
