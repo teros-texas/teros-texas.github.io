@@ -1,0 +1,32 @@
+- time: 08:30-
+  info: Front Desk Opens
+
+- time: 09:00-09:15
+  info: Introduction
+
+- time: 09:15-09:45
+  info: Keynote
+  
+- time: 09:45-10:15
+  info: University Introduction Video
+  
+- time: 10:15-10:45
+  info: Keynote
+  
+- time: 10:45-11:15
+  info: Speed dating
+  
+- time: 11:15-11:45
+  info: Keynote
+  
+- time: 11:45-12:30
+  info: Round Tables
+
+- time: 12:30-13:00
+  info: Kyenote
+
+- time: 13:00-13:15
+  info: Closing Remarks
+    
+
+

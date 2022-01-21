@@ -2,10 +2,43 @@
   info: Introduction
 
 - time: 09:15-09:45
-  info: Introduction Video
+  info: University Introduction Video
 
 - time: 09:45-10:25
   info: Keynote Speaker 1
 
 - time: 10:25-11:05
   info: Coffee + Poster Presentations + Industry Desks 1
+
+- time: 11:05-11:10
+  info: Break
+
+- time: 11:10-12:05
+  info: Faculty Talk
+
+- time: 12:05-13:05
+  info: Lunch
+
+- time: 13:05-14:00
+  info: Faculty Talk
+
+- time: 14:00-14:40
+  info: Keynote Speaker 2
+
+- time: 14:40-15:20
+  info: Coffee + Poster Presentations + Industry Desks 2
+
+- time: 15:20-16:00
+  info: Keynote Speaker 3
+
+- time: 16:00-16:05
+  info: Break
+
+- time: 16:05 - 16:45
+  info: Keynote Speaker 4
+
+- time: 16:45 - 17:00
+  info: Closing Remarks
+
+    
+    
