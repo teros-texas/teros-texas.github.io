@@ -1,8 +1,8 @@
-title: Your Title
+title: TEROS
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "TEROS-2022.github.io" # the base hostname & protocol for your site
+url: "teros-texas.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
