@@ -1,10 +1,31 @@
 <!-- About Section -->
 <section id="about" class="bg-light-gray">
+
+  <div class="container">
+    <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1 class="section-heading" style="font-size:
+						   60px">Texas Regional Robotics Symposium<br></h1>
+		<br/>
+		<br/>
+                <h2 class="section-heading">April 29th<br></h2>
+		<h3 class="section-heading">The University of Texas at Austin<br></h3>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+              <!-- <div class="intro-heading">Texas Regional Robotics Symposium<br></div> -->
+              <!--   <div class="intro-lead-in">April 29th</div> -->
+              <!--   <div class="intro-lead-in">The University of Texas at Austin</div> -->
+            </div>
+	    </div>
+        </div>
+  
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted"></h3>
+                    <!-- <h3 class="section-subheading text-muted"></h3> -->
                 </div>
             </div>
             <!-- <div class="row"> -->
@@ -29,8 +50,8 @@
             <!--         </ul> -->
             <!--     </div> -->
             <!-- </div> -->
-            <div class="row container">
-              <h3 class="section-heading">Symposium Schedules</h3>
+            <div class="row">
+              <h3 class="section-heading">Goal</h3>
               <p>Texas Regional Robotics Symposium (TEROS) aims to bring together roboticists from the Texas Region. The program will consist of a mix of faculty, student researchers and industry partners.</p>
             </div>	    
 	    <div class="row">
@@ -53,9 +74,9 @@
                         </div>
                         <img src="../css/teros_2022_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
-                    <div class="speakers-caption">
-                        <h4>{{ post.title }}</h4>
-                        <p class="text-muted">{{ post.subtitle }}</p>
+                    <div class="speakers-caption text-center">
+                        <h4>{{ post.name }}</h4>
+                        <p class="text-muted">{{ post.affliation }}</p>
                     </div>
                 </div>
             {% endfor %}

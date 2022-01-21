@@ -252,7 +252,10 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:focus {
+    color: #{{ site.data.template.color.secondary }};
+}
+
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
     color: #{{ site.data.template.color.secondary }};
@@ -271,7 +274,9 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
-.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:hover{
+    background-color: #{{ site.data.template.color.primary }};
+}
 .navbar-default .navbar-toggle:focus {
     background-color: #{{ site.data.template.color.primary }};
 }
@@ -287,7 +292,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.tertiary }};
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -335,7 +340,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    height: 100vh;
+    height: 20vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -346,6 +351,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    opacity: 0.3;    
 }
 
 header .intro-text {

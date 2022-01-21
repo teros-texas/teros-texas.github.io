@@ -1,11 +1,13 @@
 - title: Keynote-Speaker 1
-  name: Name-1
+  name: Lydia Kavraki 
   subtitle: Professor
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: lk4_sm.jpg
+  thumbnail: lk4_sm.jpg
   alt: Picture of TBD
   topic: Topic
-  description: More Info
+  affliation: Rice University
+  description: <p>Lydia E. Kavraki is the Noah Harding Professor of Computer Science and Bioengineering at Rice University. She obtained her B.A. from the University of Crete in Greece and her Ph.D. from Stanford University. She is the Director of the Ken Kennedy Institute at Rice University. Kavraki also leads the NIH/NLM Training Program in Biomedical Informatics under the auspices of the Gulf Coast Consortia in Houston. Her interests are in AI and its applications in robotics and medicine. Kavraki is the recipient of the ACM Grace Murray Hopper Award, the ACM Athena Award, and the ACM-AAAI Allen Newell Award. She is a Fellow of ACM, IEEE, AAAS, AAAI, AIMBE, a member of the National Academy of Medicine of the USA, Academia Europaea, and the Academy of Athens. Information about her work can be found at www.kavrakilab.org</p>
+
 
 - title: Keynote-Speaker 2
   name: Name-2
@@ -15,6 +17,7 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  affliation: University  
 
 - title: Keynote-Speaker 3
   name: Name-3
@@ -24,6 +27,7 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
+  affliation: University  
 
 - title: Keynote-Speaker 4
   name: Name-4
@@ -33,4 +37,4 @@
   alt: Picture of TBD
   topic: Topic
   description: More Info
-  
+  affliation: University  
