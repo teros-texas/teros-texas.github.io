@@ -5,10 +5,10 @@
  */
 
 html {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 100%;
 }
 
 *, *:before, *:after {
@@ -93,6 +93,8 @@ h4 {
 
 .img-centered {
     margin: 0 auto;
+    height: 250px;
+    width: 250px;
 }
 
 aside.clients {
@@ -975,3 +977,4 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+

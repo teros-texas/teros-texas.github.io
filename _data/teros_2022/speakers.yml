@@ -11,15 +11,16 @@
 
 
 - title: Keynote-Speaker 2
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  name: Mary Hayhoe
+  subtitle: Professor
+  img: mh_profile.png
+  thumbnail: mh_profile.png
   alt: Picture of TBD
   topic: Topic
-  description: More Info
-  affliation: University
-  website: null
+  affliation: UT Austin
+  website: https://liberalarts.utexas.edu/cps/faculty/profile.php?eid=mmh739
+  description: <p>Mary Hayhoe is a Professor in the Center for Perceptual Systems at the University of Texas Austin. She received her Ph D from the University of California at San Diego and was a member of the Center for Visual Sciences at the University of Rochester from 1984-2006, when she moved to UT Austin. She been a leader in developing virtual environments and experimental paradigms for the investigation of natural visually guided behavior. She has expertise in human eye movements in natural environments, especially how gaze behavior relates to attention, working memory, and cognitive goals. She served on the Board of Directors of the Vision Sciences Society from 2011-2016 and was President in 2015, and was awarded the Davida Teller Award in 2017 for her contributions to vision research. She is also on the Editorial Board of the Journal of Vision.</p>
+  
 
 - title: Keynote-Speaker 3
   name: Name-3
