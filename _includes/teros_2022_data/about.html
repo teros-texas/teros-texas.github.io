@@ -1,29 +1,15 @@
 <!-- About Section -->
-<section id="about" class="bg-light-gray">
+<section id="about">
 
-  <div class="container">
-    <div class="row">
-            <div class="col-lg-12 text-center">
-                <h1 class="section-heading" style="font-size:
-						   60px">Texas Regional Robotics Symposium<br></h1>
-		<br/>
-		<br/>
-                <h2 class="section-heading">April 29th<br></h2>
-		<h3 class="section-heading">The University of Texas at Austin<br></h3>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-              <!-- <div class="intro-heading">Texas Regional Robotics Symposium<br></div> -->
-              <!--   <div class="intro-lead-in">April 29th</div> -->
-              <!--   <div class="intro-lead-in">The University of Texas at Austin</div> -->
-            </div>
-	    </div>
-        </div>
-  
+  <!-- <div class="container"> -->
+  <!-- </div> -->
         <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
+          <div class="row">
+	    <br/>
+	    <br/>
+	    <br/>
+
+            <div class="col-lg-12 text-center">
                     <h2 class="section-heading">About</h2>
                     <!-- <h3 class="section-subheading text-muted"></h3> -->
                 </div>
@@ -59,7 +45,9 @@
 	    </div>
             <div class="row">
                 <!-- <div class="col-lg-12 text-center"> -->
-                    <h3 class="section-heading">Keynote Speakers</h3>
+                <h3 class="section-heading">Keynote Speakers</h3>
+		<br/>
+		<br/>
                     <!-- <h3 class="section-subheading text-muted"></h3> -->
                 <!-- </div> -->
             </div>
@@ -75,11 +63,21 @@
                         <img src="../css/teros_2022_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     </a>
                     <div class="speakers-caption text-center">
-                        <h4>{{ post.name }}</h4>
-                        <p class="text-muted">{{ post.affliation }}</p>
+                        <h4 style="line-height: 40%">{{ post.name }}</h4>
+                        <p class="text-muted" style="line-height: 10%">{{ post.affliation }}</p>
                     </div>
                 </div>
             {% endfor %}
-            </div>	    
+            </div>
+    <div class="row">
+      {% for speaker in site.data.teros_2022.speakers %}
+      <h3 class="section-heading">Keynote
+	by <a href="{{speaker.website}}">{{speaker.name}}</a></h3>
+      <h4>Speaker Bio: </h4>
+      {{speaker.description}}
+      <br/>
+      {% endfor %}
+    </div>
+	    
         </div>
     </section>

@@ -50,7 +50,7 @@ body {
 
 p {
     line-height: 1.75;
-	font-size: 110%;
+    font-size: 110%;
 }
 
 p.large {
@@ -241,9 +241,16 @@ fieldset[disabled] .btn-xl.active {
     background-color: #fff;
 }
 
+.navbar {
+    color: #{{ site.data.template.color.navbar-color }};
+    background-color: #{{ site.data.template.color.navbar-color }};    
+}
+
 .navbar-default {
-    border-color: transparent;
-    background-color: #ffffff;
+    /* border-color: transparent; */
+    /* background-color: #ffffff; */
+    border-color: #{{ site.data.template.color.navbar-color }};
+    background-color: #{{ site.data.template.color.navbar-color }};
 }
 
 .navbar-default .navbar-brand {
@@ -253,32 +260,37 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.navbar-color }};
+    background-color: #{{ site.data.template.color.navbar-color }};    
 }
 
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.navbar-color }};
 }
 
+
 .navbar-default .navbar-collapse {
-    border-color: rgba(255,255,255,.02);
+    /* border-color: rgba(255,255,0,.02); */
+    border-color: #{{ site.data.template.color.navbar-color }};    
+    background-color: #{{ site.data.template.color.navbar-color }};    
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: #{{ site.data.template.color.navbar-color }};
+    background-color: #{{ site.data.template.color.navbar-color }};
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    /* background-color: #222; */
+    background-color: #{{ site.data.template.color.navbar-color }};    
 }
 
 .navbar-default .navbar-toggle:hover{
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.navbar-color }};
 }
 .navbar-default .navbar-toggle:focus {
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #{{ site.data.template.color.navbar-color }};
 }
 
 .navbar-default .nav li a {
@@ -298,13 +310,15 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #bf5700;
-    background-color: #{{ site.data.template.color.primary }};
+    /* background-color: #{{ site.data.template.color.primary }}; */
+    background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #bf5700;
-    background-color: #{{ site.data.template.color.secondary }};
+    /* background-color: #{{ site.data.template.color.primary }}; */
+    background-color: transparent;
 }
 
 @media(min-width:768px) {
@@ -331,16 +345,47 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #ffffff;
+        /* background-color: #ffffff; */
+	background-color: #{{ site.data.template.color.navbar-color }};	
     }
 
+    .navbar-fixed-top {
+	background-color: #{{ site.data.template.color.navbar-color }};	
+    }
+    
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
 }
 
+.myDiv {
+    position: relative;
+    z-index: 1;
+    margin-top: 0px;
+}
+
+.myDiv .bg {
+    position: absolute;
+    z-index: -1;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg.jpg');
+    /* background-size: 100%; */
+    background-repeat: none;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+    opacity: .3;
+    height: 40vh;
+}
+
 header {
-    height: 20vh;
+    height: 40vh;
     text-align: center;
     color: #fff;
     background-attachment: scroll;
@@ -355,7 +400,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 25vh;
+    padding-top: 10vh;
     padding-bottom: 50px;
 }
 
@@ -378,7 +423,7 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {    
     header .intro-text {
-        padding-top: 300px;
+        padding-top: 100px;
         padding-bottom: 200px;
     }
 
@@ -402,6 +447,8 @@ header .intro-text .intro-heading {
 
 section {
     padding: 100px 0;
+    background-color: transparent;
+    
 }
 
 aside.clients h2,
