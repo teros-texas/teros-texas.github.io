@@ -9,17 +9,17 @@
   website: http://www.kavrakilab.org
   description: <p>Lydia E. Kavraki is the Noah Harding Professor of Computer Science and Bioengineering at Rice University. She obtained her B.A. from the University of Crete in Greece and her Ph.D. from Stanford University. She is the Director of the Ken Kennedy Institute at Rice University. Kavraki also leads the NIH/NLM Training Program in Biomedical Informatics under the auspices of the Gulf Coast Consortia in Houston. Her interests are in AI and its applications in robotics and medicine. Kavraki is the recipient of the ACM Grace Murray Hopper Award, the ACM Athena Award, and the ACM-AAAI Allen Newell Award. She is a Fellow of ACM, IEEE, AAAS, AAAI, AIMBE, a member of the National Academy of Medicine of the USA, Academia Europaea, and the Academy of Athens. Information about her work can be found at www.kavrakilab.org.</p>
 
-
 - title: Keynote-Speaker 2
-  name: Mary Hayhoe
+  name: Ken Fleischmann
   subtitle: Professor
-  img: mh_profile.png
-  thumbnail: mh_profile.png
+  img: FleischmannKenneth.png
+  thumbnail: FleischmannKenneth.png
   alt: Picture of TBD
   topic: Topic
   affliation: UT Austin
-  website: https://liberalarts.utexas.edu/cps/faculty/profile.php?eid=mmh739
-  description: <p>Mary Hayhoe is a Professor in the Center for Perceptual Systems at the University of Texas Austin. She received her Ph D from the University of California at San Diego and was a member of the Center for Visual Sciences at the University of Rochester from 1984-2006, when she moved to UT Austin. She been a leader in developing virtual environments and experimental paradigms for the investigation of natural visually guided behavior. She has expertise in human eye movements in natural environments, especially how gaze behavior relates to attention, working memory, and cognitive goals. She served on the Board of Directors of the Vision Sciences Society from 2011-2016 and was President in 2015, and was awarded the Davida Teller Award in 2017 for her contributions to vision research. She is also on the Editorial Board of the Journal of Vision.</p>
+  website: https://www.ischool.utexas.edu/people/people-details?PersonID=220
+  description: <p>Kenneth R. Fleischmann is a Professor in the School of Information at the University of Texas at Austin, having received his M.S. and his Ph.D. from Rensselaer Polytechnic Institute. He is the Founding Chair of the Executive Team for Good Systems, and the Founding Director of Undergraduate Studies for the iSchool's B.A./B.S. in Informatics. His research and teaching focus on the ethics of AI and more broadly on the role of human values information technologies. His research has been funded by the National Science Foundation (NSF), the Intelligence Advanced Research Projects Activity (IARPA), Microsoft Research, Cisco Research Center, Micron Foundation, and the Public Interest Technology University Network. His research has been recognized by the iConference Best Paper Award, the ASIS&T SIG-USE Best Information Behavior Conference Paper Award, the ALA Library Instruction Round Table Top Twenty Articles, the ASIS&T SIG-SI Social Informatics Best Paper Award, the Civic Futures Award for Designing for the 100%, and the MetroLab Innovation of the Month Award.</p>
+
   
 
 - title: Keynote-Speaker 3
@@ -35,13 +35,12 @@
 
 
 - title: Keynote-Speaker 4
-  name: Ken Fleischmann
+  name: Mary Hayhoe
   subtitle: Professor
-  img: FleischmannKenneth.png
-  thumbnail: FleischmannKenneth.png
+  img: mh_profile.png
+  thumbnail: mh_profile.png
   alt: Picture of TBD
   topic: Topic
   affliation: UT Austin
-  website: https://www.ischool.utexas.edu/people/people-details?PersonID=220
-  description: <p>Kenneth R. Fleischmann is a Professor in the School of Information at the University of Texas at Austin, having received his M.S. and his Ph.D. from Rensselaer Polytechnic Institute. He is the Founding Chair of the Executive Team for Good Systems, and the Founding Director of Undergraduate Studies for the iSchool's B.A./B.S. in Informatics. His research and teaching focus on the ethics of AI and more broadly on the role of human values information technologies. His research has been funded by the National Science Foundation (NSF), the Intelligence Advanced Research Projects Activity (IARPA), Microsoft Research, Cisco Research Center, Micron Foundation, and the Public Interest Technology University Network. His research has been recognized by the iConference Best Paper Award, the ASIS&T SIG-USE Best Information Behavior Conference Paper Award, the ALA Library Instruction Round Table Top Twenty Articles, the ASIS&T SIG-SI Social Informatics Best Paper Award, the Civic Futures Award for Designing for the 100%, and the MetroLab Innovation of the Month Award.</p>
-
+  website: https://liberalarts.utexas.edu/cps/faculty/profile.php?eid=mmh739
+  description: <p>Mary Hayhoe is a Professor in the Center for Perceptual Systems at the University of Texas Austin. She received her Ph D from the University of California at San Diego and was a member of the Center for Visual Sciences at the University of Rochester from 1984-2006, when she moved to UT Austin. She been a leader in developing virtual environments and experimental paradigms for the investigation of natural visually guided behavior. She has expertise in human eye movements in natural environments, especially how gaze behavior relates to attention, working memory, and cognitive goals. She served on the Board of Directors of the Vision Sciences Society from 2011-2016 and was President in 2015, and was awarded the Davida Teller Award in 2017 for her contributions to vision research. She is also on the Editorial Board of the Journal of Vision.</p>
