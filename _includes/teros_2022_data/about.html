@@ -36,14 +36,14 @@
             <!--         </ul> -->
             <!--     </div> -->
             <!-- </div> -->
-            <div class="row">
+            <div class="row container">
               <h3 class="section-heading">Goal</h3>
               <p>Texas Regional Robotics Symposium (TEROS) aims to bring together roboticists from the Texas Region. The program will consist of a mix of faculty, student researchers and industry partners.</p>
             </div>	    
-	    <div class="row">
+	    <div class="row container">
                     <h3 class="section-heading">Sponsors</h3>	      
 	    </div>
-            <div class="row">
+            <div class="row container">
                 <!-- <div class="col-lg-12 text-center"> -->
                 <h3 class="section-heading">Keynote Speakers</h3>
 		<br/>
@@ -51,7 +51,7 @@
                     <!-- <h3 class="section-subheading text-muted"></h3> -->
                 <!-- </div> -->
             </div>
-            <div class="row">
+            <div class="row container">
             {% for post in site.data.teros_2022.speakers %}
                 <div class="col-md-3 col-sm-3 speakers-item">
                     <a href="#{{ post.name }}" class="speakers-link" data-toggle="modal">
@@ -69,7 +69,7 @@
                 </div>
             {% endfor %}
             </div>
-    <div class="row">
+    <div class="row container">
       {% for speaker in site.data.teros_2022.speakers %}
       <h3 class="section-heading">Keynote
 	by <a href="{{speaker.website}}">{{speaker.name}}</a></h3>
