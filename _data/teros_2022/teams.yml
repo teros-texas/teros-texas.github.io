@@ -1,10 +1,12 @@
 - name: Yuke Zhu
   profile_image: yuke_zhu.jpg
   email: yukez [at] cs.utexas.edu
+  website: https://www.cs.utexas.edu/~yukez/
 
 - name: Joydeep Biswas
   profile_image: joydeep_biswas.jpg
   email: joydeepb [at] cs.utexas.edu
+  website: https://www.joydeepb.com/
 
 - name: Michelle Garel
   profile_image: michelle_garel.jpg
@@ -13,7 +15,9 @@
 - name: Yifeng Zhu
   profile_image: yifeng_zhu.jpg
   email: yifeng.zhu [at] utexas.edu
+  website: https://www.cs.utexas.edu/~yifengz/
 
 - name: Josh Hoffman
   profile_image: josh_hoffman.jpg
   email: jbhoffman [at] utexas.edu
+  website: https://joshbhoffman.com/
