@@ -1,44 +1,83 @@
-- time: 09:00-09:15
-  info: Introduction
+- time: 08:00-17:00
+  info: Information Desk Open
 
-- time: 09:15-09:45
-  info: University Introduction Video
+- time: 08:30-08:45
+  info: Introductions
 
-- time: 09:45-10:25
+- time: 08:45-09:15
   info: Keynote Speaker 1
 
-- time: 10:25-11:05
-  info: Coffee + Poster Presentations + Industry Desks 1
-
-- time: 11:05-11:10
-  info: Break
-
-- time: 11:10-12:05
-  info: Faculty Talk
-
-- time: 12:05-13:05
-  info: Lunch
-
-- time: 13:05-14:00
-  info: Faculty Talk
-
-- time: 14:00-14:40
+- time: 09:15-09:45
   info: Keynote Speaker 2
 
-- time: 14:40-15:20
-  info: Coffee + Poster Presentations + Industry Desks 2
+- time: 09:45-11:15
+  info: Poster Session/Coffee Break/Univ Videos
 
-- time: 15:20-16:00
+- time: 11:15-12:00
+  info: Faculty Talks
+
+- time: 12:00-13:00
+  info: Lunch
+
+- time: 13:00-13:30
   info: Keynote Speaker 3
 
-- time: 16:00-16:05
-  info: Break
-
-- time: 16:05 - 16:45
+- time: 13:30-14:00
   info: Keynote Speaker 4
 
-- time: 16:45 - 17:00
+- time: 14:00-14:30
+  info: Coffee break
+
+- time: 14:30-15:15
+  info: Faculty Talks
+
+- time: 15:15-15:30
   info: Closing Remarks
+
+- time: TBD
+  info: AHG tours / reception
+
+# - time: 09:00-09:15
+#   info: Introduction
+
+# - time: 09:15-09:45
+#   info: University Introduction Video
+
+# - time: 09:45-10:25
+#   info: Keynote Speaker 1
+
+# - time: 10:25-11:05
+#   info: Coffee + Poster Presentations + Industry Desks 1
+
+# - time: 11:05-11:10
+#   info: Break
+
+# - time: 11:10-12:05
+#   info: Faculty Talk
+
+# - time: 12:05-13:05
+#   info: Lunch
+
+# - time: 13:05-14:00
+#   info: Faculty Talk
+
+# - time: 14:00-14:40
+#   info: Keynote Speaker 2
+
+# - time: 14:40-15:20
+#   info: Coffee + Poster Presentations + Industry Desks 2
+
+# - time: 15:20-16:00
+#   info: Keynote Speaker 3
+
+# - time: 16:00-16:05
+#   info: Break
+
+# - time: 16:05 - 16:45
+#   info: Keynote Speaker 4
+
+# - time: 16:45 - 17:00
+#   info: Closing Remarks
 
     
     

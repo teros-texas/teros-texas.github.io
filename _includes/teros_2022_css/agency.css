@@ -66,14 +66,14 @@ a.active {
 }
 
 a {
-    color: #{{ site.data.template.color.ut }};
+    color: #{{ site.data.template.color.link }};
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #{{ site.data.template.color.ut }};
+    color: #{{ site.data.template.color.link }};
 }
 
 h1,
@@ -300,7 +300,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 800;
     letter-spacing: 1px;
-    color: #bf5700;
+    color: #{{ site.data.template.color.link }};
 }
 
 .navbar-default .nav li a:hover,
@@ -311,14 +311,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #bf5700;
+    color: #{{ site.data.template.color.link }};
     /* background-color: #{{ site.data.template.color.primary }}; */
     background-color: transparent;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #bf5700;
+    color: #{{ site.data.template.color.link }};
     /* background-color: #{{ site.data.template.color.primary }}; */
     background-color: transparent;
 }
@@ -447,10 +447,17 @@ header .intro-text .intro-heading {
     }
 }
 
-section {
+section:nth-child(odd) {
     padding: 100px 0;
     background-color: transparent;
     
+    
+}
+
+section:nth-child(even) {
+    padding: 100px 0;
+    background-color: transparent;
+    background-color: #f7f7f7;    
 }
 
 aside.clients h2,
@@ -501,7 +508,7 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     /* background: #3cb371; */
-    color: #222;
+    color: #222;    
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover:hover {
