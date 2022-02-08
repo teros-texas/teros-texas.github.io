@@ -284,8 +284,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    /* background-color: #222; */
-    background-color: #{{ site.data.template.color.navbar-color }};    
+    background-color: #222;
+    /* background-color: #{{ site.data.template.color.navbar-color }};     */
 }
 
 .navbar-default .navbar-toggle:hover{
@@ -403,7 +403,8 @@ header {
 }
 
 header .intro-text {
-    padding-top: 10vh;
+    /* padding-top: 10vh; */
+    padding-top: 10%;
     padding-bottom: 50px;
 }
 
@@ -541,6 +542,11 @@ padding: 100px 0;
     
     
     }
+
+section:nth-child(odd) {
+    padding: 100px 0;
+    background-color: transparent;
+}
 
 section:nth-child(even) {
     padding: 100px 0;
