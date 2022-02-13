@@ -7,15 +7,16 @@
 		  {% for organizer in site.data.teros_2022.teams %}
 		  <!-- <p>{{ organizer.name}}, {{organizer.email}}</p> -->
 
-                <div class="col-md-4 col-sm-6 col-xs-12 col-lg-4 speakers-item">
+                <div class="col-md-4 col-sm-6 col-xs-12 col-lg-2
+		  speakers-item">
                     <a href="#{{ organizer.name }}" class="speakers-link" data-toggle="modal">
-                        <img src="../css/teros_2022_style/img/team/{{ organizer.profile_image }}" class="img-responsive img-centered" style="padding-top: 1%;" alt="">
+                        <img src="../css/teros_2022_style/img/team/{{ organizer.profile_image }}" class="img-responsive img-centered" style="padding-top: 1%;width:100%;height:auto;  justify-content: center;" alt="">
                     </a>
                     <div class="speakers-caption text-center">
                         <h4 style="line-height: 40%"><a href="{{organizer.website}}">{{ organizer.name }}</a></h4>
                         <!-- <p class="text-muted" style="line-height: 10%">{{ organizer.affliation }}</p> -->
-                        <p class="text-muted" style="line-height:
-                        100%; font-size:90%">{{ organizer.email }}</p>
+                        <!-- <p class="text-muted" style="line-height: -->
+                        <!-- 100%; font-size:90%">{{ organizer.email }}</p> -->
 			
                     </div>
                 </div>
