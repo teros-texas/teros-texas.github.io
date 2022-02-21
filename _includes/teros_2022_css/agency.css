@@ -431,7 +431,7 @@ header .section-heading {
     /* font-family: {{ site.data.template.font.primary }}; */
     font-size: 25px;
     /* font-weight: 700; */
-    line-height: 20px;
+    line-height: 27px;
 }
 
 @media screen and (max-width: 1280px) {
@@ -581,7 +581,7 @@ aside.clients h2,
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 section h3.section-subheading {
