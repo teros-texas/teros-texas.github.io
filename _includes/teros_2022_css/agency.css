@@ -425,6 +425,15 @@ header .intro-text .intro-heading {
     line-height: 40px;
 }
 
+header .section-heading {
+    /* margin-bottom: 25px; */
+    /* text-transform: uppercase;*/
+    /* font-family: {{ site.data.template.font.primary }}; */
+    font-size: 25px;
+    /* font-weight: 700; */
+    line-height: 20px;
+}
+
 @media screen and (max-width: 1280px) {
 
     #header {
@@ -572,7 +581,7 @@ aside.clients h2,
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 60px;
 }
 
 section h3.section-subheading {
@@ -1110,3 +1119,4 @@ body {
     width: 20%;
     float: left;
 }
+
