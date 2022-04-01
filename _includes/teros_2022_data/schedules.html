@@ -25,12 +25,13 @@ tr:nth-child(odd) {
     </div>
     <div class="row container">
       <!-- <h3 class="section-heading">Symposium Schedules</h3> -->
-      <b>We prepared the following two schedules for an in-person/virtual event. We will make a final decision on the event format in early April based on the COVID situation in Texas.</b>
+      <b>We've decided the symposium will be an in-person event. The schedule is shown in the following table:</b>
     </div>
 
-    <div class="section-title" style="width:45%; float:left">
+    <div class="section-title" style="width:50%; margin-left: auto;
+				      margin-right: auto">
       <table>
-      	<caption><h3>In-person schedule (tentative)</h3></caption>
+      	<caption><h3>Schedule (In-person)</h3></caption>
       	<colgroup>
           <col width="20%" />
           <col width="65%" />
@@ -52,29 +53,29 @@ tr:nth-child(odd) {
       </table>
     </div>
 
-    <div class="section-title" style="width: 45%; float:right">
-      <table>
-      	<caption><h3>Virtual schedule (tentative)</h3></caption>
-      	<colgroup>
-          <col width="20%" />
-          <col width="65%" />
-      	</colgroup>
-      	<!-- <thead> -->
-        <!--   <tr class="header"> -->
-        <!--     <th>Time (24 hr)</th> -->
-        <!--     <th>Description</th> -->
-        <!--   </tr> -->
-      	<!-- </thead> -->
-      	<tbody>
-      	  {% for table_item in site.data.teros_2022.virtual_agenda %}
-      	  <tr>
-      	    <td>{{table_item.time}} <br/></td>
-      	    <td colspan="2">{{table_item.info}} <br/></td>
-      	  </tr>
-      	  {% endfor %}
-      	</tbody>
-      </table>
-    </div>
+    <!-- <div class="section-title" style="width: 45%; float:right"> -->
+    <!--   <table> -->
+    <!--   	<caption><h3>Virtual schedule (tentative)</h3></caption> -->
+    <!--   	<colgroup> -->
+    <!--       <col width="20%" /> -->
+    <!--       <col width="65%" /> -->
+    <!--   	</colgroup> -->
+    <!--   	<\!-- <thead> -\-> -->
+    <!--     <\!--   <tr class="header"> -\-> -->
+    <!--     <\!--     <th>Time (24 hr)</th> -\-> -->
+    <!--     <\!--     <th>Description</th> -\-> -->
+    <!--     <\!--   </tr> -\-> -->
+    <!--   	<\!-- </thead> -\-> -->
+    <!--   	<tbody> -->
+    <!--   	  {% for table_item in site.data.teros_2022.virtual_agenda %} -->
+    <!--   	  <tr> -->
+    <!--   	    <td>{{table_item.time}} <br/></td> -->
+    <!--   	    <td colspan="2">{{table_item.info}} <br/></td> -->
+    <!--   	  </tr> -->
+    <!--   	  {% endfor %} -->
+    <!--   	</tbody> -->
+    <!--   </table> -->
+    <!-- </div> -->
   </div>
   <!-- <div class="container"> -->
   <!--   <div class="row"> -->
