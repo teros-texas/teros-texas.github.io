@@ -569,12 +569,12 @@ padding: 100px 0;
 section:nth-child(odd) {
     padding: 100px 0;
     background-color: transparent;
+    background-color: #f7f7f7;    
 }
 
 section:nth-child(even) {
     padding: 100px 0;
     background-color: transparent;
-    background-color: #f7f7f7;    
 }
 
 aside.clients h2,
