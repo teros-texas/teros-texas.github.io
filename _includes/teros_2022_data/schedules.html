@@ -53,62 +53,6 @@ tr:nth-child(odd) {
       </table>
     </div>
     <br>
-    <div class="row container">
-    <p> The tentative list of speakers for each spotlight talk
-      session is: </p>
-    <p>Spotlight Talks 1 (11:15-12:00):
-      <table style="width:30%; margin-left: auto; margin-right: auto; margin-top: auto">
-      	<!-- <caption><h3>Schedule (In-person)</h3></caption> -->
-      	<colgroup>
-          <col width="30%" />
-          <col width="35%" />
-      	</colgroup>
-      	<!-- <thead> -->
-        <!--   <tr class="header"> -->
-        <!--     <th>Time (24 hr)</th> -->
-        <!--     <th>Description</th> -->
-        <!--   </tr> -->
-      	<!-- </thead> -->
-      	<tbody>
-      	  {% for table_item in site.data.teros_2022.spotlight_speakers_1 %}
-      	  <tr>
-      	    <td>{{table_item.time}} <br/></td>
-      	    <td colspan="2">{{table_item.speaker}} <br/></td>
-      	  </tr>
-      	  {% endfor %}
-      	</tbody>
-      </table>
-    <p>Spotlight Talks 2 (14:30-15:20):
-      <table style="width:30%; margin-left: auto; margin-right: auto; margin-top: auto">
-      	<!-- <caption><h3>Schedule (In-person)</h3></caption> -->
-      	<colgroup>
-          <col width="30%" />
-          <col width="35%" />
-      	</colgroup>
-      	<!-- <thead> -->
-        <!--   <tr class="header"> -->
-        <!--     <th>Time (24 hr)</th> -->
-        <!--     <th>Description</th> -->
-        <!--   </tr> -->
-      	<!-- </thead> -->
-      	<tbody>
-      	  {% for table_item in site.data.teros_2022.spotlight_speakers_2 %}
-      	  <tr>
-      	    <td>{{table_item.time}} <br/></td>
-      	    <td colspan="2">{{table_item.speaker}} <br/></td>
-      	  </tr>
-      	  {% endfor %}
-      	</tbody>
-      </table>
-      
-    <!-- <p>Spotlight Talks 1 (11:15-12:00): Robert Ambrose (11:15-11:25), -->
-    <!--   Yu Xiang (11:25-11:35), Marcia O&apos;Malley (11:35-11:45), -->
-    <!--   Nick Fey (11:45-11:55), Khen Elimelech (11:55-12:05)</p> -->
-    <!-- <p>Spotlight Talks 2 (14:30-15:15): Dezhen Song (14:30-14:40), -->
-    <!-- Vaibhav Unhelkar (14:40-14:50), -->
-    <!-- Sandeep Chinchali (14:50-15:00), David Fridovich-Keil -->
-    <!-- (15:00-15:10), Farshid Alambeigi (15:10 -15:20)</p> -->
-    </div>    
     <br>
     <div class="row container">
     <p> We have been closely monitoring the developing situation with
