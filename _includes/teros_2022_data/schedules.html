@@ -33,8 +33,9 @@ tr:nth-child(odd) {
       <table>
       	<!-- <caption><h3>Schedule (In-person)</h3></caption> -->
       	<colgroup>
-          <col width="40%" />
-          <col width="55%" />
+          <col width="13%" />
+          <col width="30%" />
+	  <col width="25%"/>
       	</colgroup>
       	<!-- <thead> -->
         <!--   <tr class="header"> -->
@@ -43,10 +44,16 @@ tr:nth-child(odd) {
         <!--   </tr> -->
       	<!-- </thead> -->
       	<tbody>
+          <tr>
+            <td> <b>Time</b></td>
+            <td colspan="2" ><b>Schedule</b></td>
+            <td colspan="1.5"><b>Locations</b></td>
+          </tr>
       	  {% for table_item in site.data.teros_2022.in_person_agenda %}
       	  <tr>
       	    <td>{{table_item.time}} <br/></td>
       	    <td colspan="2">{{table_item.info}} <br/></td>
+	    <td colspan="1.5">{{table_item.locations}} <br/></td>
       	  </tr>
       	  {% endfor %}
       	</tbody>
