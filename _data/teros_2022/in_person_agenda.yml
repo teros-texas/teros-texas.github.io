@@ -32,19 +32,19 @@
   info: Lunch
   locations: GDC 3rd floor Atrium
 
-- time: 13:00-13:30
+- time: 13:30-14:00
   info: Keynote Speaker <a style="text-decoration:none;" href="https://people.engr.tamu.edu/robin.r.murphy/index.html">Robin Murphy</a>
   locations: GDC 2.216 Auditorium  
 
-- time: 13:30-14:00
+- time: 14:00-14:30
   info: Keynote Speaker <a style="text-decoration:none;" href="https://liberalarts.utexas.edu/cps/faculty/profile.php?eid=mmh739">Mary Hayhoe</a>
   locations: GDC 2.216 Auditorium  
 
-- time: 14:00-14:30
+- time: 14:30-15:00
   info: Posters / Networking / Coffee breaks
   locations: GDC 2nd floor Atrium &#38; 3rd floor
 
-- time: 14:30-15:25
+- time: 15:00-15:55
   info: Spotlight Talks 2
         <br>
         <a href="https://people.engr.tamu.edu/dzsong/dzsong/index.html" style="text-decoration:none">Dezhen Song</a> (Texas A&#38;M), 
@@ -54,11 +54,11 @@
         <a href="https://sites.utexas.edu/arts-lab/" style="text-decoration:none">Farshid Alambeigi</a> (UT Austin)
   locations: GDC 2.216 Auditorium  
 
-- time: 15:25-15:30
+- time: 15:55-16:00
   info: Closing Remarks
   locations: GDC 2.216 Auditorium  
 
-- time: 15:30-16:30
+- time: 16:00-16:30
   info: AHG tours
   locations: AHG
 
