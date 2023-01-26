@@ -6,6 +6,7 @@ Then, clone this repo to your local machine: `git clone https://github.com/teros
 Run the following commands to install plugins: 
 ```
 cd teros-texas.github.io
+git checkout teros2023
 bundle install
 ```
 
