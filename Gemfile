@@ -33,3 +33,5 @@ gem "jekyll-sitemap"
 
 # Added at 2021-12-22 23:27:05 -0500 by yifeng:
 gem "jekyll-seo-tag", "~> 2.7"
+
+gem "webrick", "~> 1.7"
