@@ -367,7 +367,7 @@ header {
     text-align: center;
     color: # {{ site.data.template.color.primary }};
     background-attachment: scroll;
-    background-image: url("{{ site.baseurl}}/assets/img/header-bg-transparent.jpg");
+    background-image: url("/assets/img/header-bg-transparent.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
