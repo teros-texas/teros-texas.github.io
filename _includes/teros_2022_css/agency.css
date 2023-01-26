@@ -360,31 +360,6 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-.myDiv {
-    position: relative;
-    z-index: 1;
-    margin-top: 0px;
-}
-
-.myDiv .bg {
-    position: absolute;
-    z-index: -1;
-    margin: 0;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg.jpg');
-    /* background-size: 100%; */
-    background-repeat: none;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-attachment: fixed;
-    opacity: .3;
-    height: 40vh;
-}
 
 header {
     height: 100%;
@@ -392,7 +367,7 @@ header {
     text-align: center;
     color: # {{ site.data.template.color.primary }};
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/teros_2022_style/img/header-bg-transparent.jpg');
+    background-image: url('/assets/img/header-bg-transparent.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;

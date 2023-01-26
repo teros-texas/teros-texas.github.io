@@ -9,7 +9,6 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/teros_2022_style/img/icon-large.png"
 
 social: 
   name: Twitter
@@ -17,7 +16,7 @@ social:
 
 google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
-include: ['_teros_2022_pages']
+include: ['_teros_2023_pages']
 
 plugins:
   - jekyll-sitemap
