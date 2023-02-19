@@ -12,3 +12,33 @@
   profile_image: preston.jpg
   email: djp [at] rice.edu
   website: https://pi.rice.edu/
+
+- name: Shane King
+  profile_image: king.jpg
+  email: sk210 [at] rice.edu
+  website: https://mahilab.rice.edu/
+
+- name: Tianyang Pan
+  profile_image: pan.jpg
+  email: tp36 [at] rice.edu
+  website: http://tianyangpan.com/
+
+- name: Carlos Quintero Peña
+  profile_image: pena.jpg
+  email: carlosq [at] rice.edu
+  website: https://carlosquinterop.github.io/
+
+- name: Peizhu "Pam" Qian
+  profile_image: qian.png
+  email: pqian [at] rice.edu
+  website: http://peizhuqian.com/
+
+- name: Kejia Ren
+  profile_image: ren.jpg
+  email: kr43 [at] rice.edu
+  website: https://scholar.google.com/citations?user=1umO80wAAAAJ&hl=en
+
+- name: Irfan Zobayed
+  profile_image: zobayed.jpg
+  email: iz3 [at] rice.edu
+  website: https://pi.rice.edu
