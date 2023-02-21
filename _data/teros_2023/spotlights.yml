@@ -1,0 +1,39 @@
+- title: Spotlight-Speaker 1
+  name: Nicholas Gans
+  subtitle: Professor
+  img: Gans.jpg
+  thumbnail: Gans.jpg
+  alt: Picture of Gans
+  topic: Topic
+  affiliation: UT Arlington
+  website: https://utari.uta.edu/about/staff-directory/nicholas-gans/
+
+- title: Spotlight-Speaker 2
+  name: Yu Xiang
+  subtitle: Professor
+  img: Xiang.png
+  thumbnail: Xiang.png
+  alt: Picture of Xiang
+  topic: Topic
+  affiliation: UT Dallas
+  website: https://yuxng.github.io/
+
+- title: Spotlight-Speaker 3
+  name: Roberto Martín-Martín
+  subtitle: Professor
+  img: Martin-Martin.jpg
+  thumbnail: Martin-Martin.jpg
+  alt: Picture of Martin-Martin
+  topic: Topic
+  affiliation: UT Austin
+  website: https://robertomartinmartin.com/
+
+- title: Spotlight-Speaker 4
+  name: Kiju Lee
+  subtitle: Professor
+  img: Lee.jpg
+  thumbnail: Lee.jpg
+  alt: Picture of Lee
+  topic: Topic
+  affiliation: Texas A&M
+  website: https://engineering.tamu.edu/etid/profiles/lee-kiju.html

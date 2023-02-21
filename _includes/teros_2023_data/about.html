@@ -123,7 +123,7 @@
 
 
 
-    <div class="row container">
+<!--     <div class="row container">
 
       {% for speaker in site.data.teros_2023.speakers %}
 
@@ -133,9 +133,32 @@
       {% endfor %}
       
     </div>
-      
+ -->      
 
 
+      <h3 class="section-heading">Spotlight Speakers</h3>
+         <div class="row container">
+            <div class="row">
+                <div class="col-lg-12 text-left">
+          {% for speaker in site.data.teros_2023.spotlights %}
+
+              <div class="col-md-4 col-sm-6 col-xs-12 col-lg-3 speakers-item">
+                <a href="#{{ speaker.name }}" class="speakers-link" data-toggle="modal">
+                      <img src="/assets/img/spotlights/{{ speaker.img }}" class="img-responsive img-centered" style="padding-top: 1%;" alt="">
+                  </a>
+                  <div class="speakers-caption text-center">
+                      <h4 style="line-height: 40%"><a href="{{speaker.website}}">{{ speaker.name }}</a></h4>
+                      <p class="text-muted" style="line-height: 10%">{{ speaker.affiliation}}</p>
+                      <!-- <p class="text-muted" style="line-height: 10%">{{ speaker.affliation }}</p> -->
+                      <!-- <p class="text-muted" style="line-height: -->
+                      <!-- 100%; font-size:90%">{{ speaker.email }}</p> -->
+
+                  </div>
+              </div>
+          {% endfor %}
+                </div>
+            </div>
+        </div>
 
 
 
