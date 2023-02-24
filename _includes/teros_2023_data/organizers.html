@@ -1,30 +1,27 @@
 <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-left">
-          <h2>Organizers</h2>
-          <br/>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-left">
+
+        <h2>Contact us</h2>
+        <p>You can reach us via email at <a href="mailto:teros2023@rice.edu">teros2023@rice.edu</a></p>
+
+        <h2>Organizers</h2>
           <br/>
           {% for organizer in site.data.teros_2023.teams %}
-          <!-- <p>{{ organizer.name}}, {{organizer.email}}</p> -->
-
-                <!-- <div class="col-xs-5ths col-sm-5ths col-md-5ths -->
-        <!--   .col-lg-5ths col-xs-5ths -->
-        <!--   speakers-item"> -->
-                <div class="col-md-4 col-sm-4 col-xs-12 col-lg-5 speakers-item">
-                  <a href="#{{ organizer.name }}" class="speakers-link" data-toggle="modal">
-                        <img src="/assets/img/team/{{ organizer.profile_image }}" class="img-responsive img-centered" style="padding-top: 1%;width:auto%;height:50%;  justify-content: center;" alt="">
-                    </a>
-                    <div class="speakers-caption text-center">
-                        <h4 style="line-height: 40%; font-size:115%"><a href="{{organizer.website}}">{{ organizer.name }}</a></h4>
-                        <!-- <p class="text-muted" style="line-height: 10%">{{ organizer.affliation }}</p> -->
-                        <!-- <p class="text-muted" style="line-height: -->
-                        <!-- 100%; font-size:90%">{{ organizer.email }}</p> -->
-
-                    </div>
-                </div>
-          {% endfor %}
-                </div>
+            <div class="col-md-4 col-sm-4 col-xs-12 col-lg-5 speakers-item">
+              <a href="#{{ organizer.name }}" class="speakers-link" data-toggle="modal">
+              <img src="/assets/img/team/{{ organizer.profile_image }}" class="img-responsive img-centered" style="padding-top: 1%;width:auto%;height:50%;  justify-content: center;" alt="">
+              </a>
+              <div class="speakers-caption text-center">
+                <h4 style="line-height: 40%; font-size:115%"><a href="{{organizer.website}}">{{ organizer.name }}</a></h4>
+              </div>
             </div>
-        </div>
-    </section>
+          {% endfor %}
+          <br/>
+
+      </div>
+    </div>
+  </div>
+</section>
