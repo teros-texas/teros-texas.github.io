@@ -37,3 +37,33 @@
   topic: Topic
   affiliation: Texas A&M
   website: https://engineering.tamu.edu/etid/profiles/lee-kiju.html
+
+- title: Spotlight-Speaker 5
+  name: Stuart Corr
+  subtitle: Professor
+  img: Corr.jpg
+  thumbnail: Corr.jpg
+  alt: Picture of Corr
+  topic: Topic
+  affiliation: Houston Methodist
+  website: https://www.linkedin.com/in/sjcorr/
+
+- title: Spotlight-Speaker 6
+  name: Ashish Deshpande
+  subtitle: Professor
+  img: ashish.jpg
+  thumbnail: ashish.jpg
+  alt: Picture of ashish
+  topic: Topic
+  affiliation: UT Austin
+  website: https://www.me.utexas.edu/people/faculty-directory/deshpande
+
+- title: Spotlight-Speaker 7
+  name: Yan Wan
+  subtitle: Professor
+  img: Wan.jpeg
+  thumbnail: Wan.jpeg
+  alt: Picture of Wan
+  topic: Topic
+  affiliation: UT Arlington
+  website: https://www.uta.edu/academics/faculty/profile?username=wany
