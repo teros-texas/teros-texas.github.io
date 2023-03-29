@@ -1,99 +1,99 @@
 - time: 08:00-17:00
   info: Registration Desk opens
   locations: Prefunction area
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 08:45-09:00
   info: Introduction
   locations: Auditorium
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 09:00-09:30
   info: Keynote Speaker, Moshe Vardi
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 09:30-10:00
   info: Keynote Speaker, Luis Sentis
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 10:00-11:00
   info: Posters / Networking / Coffee Breaks
   locations: Event space
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 11:00-11:15
   info: Spotlight Talk, Yan Wan
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 11:15-11:30
   info: Spotlight Talk, Roberto Martín-Martín
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 11:30-11:45
   info: Spotlight Talk, Kiju Lee
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 11:45-12:00
   info: Spotlight Talk, TBD (Rice)
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 12:00-13:30
   info: Lunch
   locations: Event space
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 13:30-14:00
   info: Keynote Speaker, Ann Majewicz Fey
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 14:00-14:15
   info: Spotlight Talk, Stuart Corr
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 14:15-14:30
   info: Spotlight Talk, Ashish Deshpande
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 14:30-15:00
   info: Posters / Networking / Coffee Breaks
   locations: Event space
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 15:00-15:30
   info: Keynote Speaker, Dezhen Song
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 15:30-15:45
   info: Spotlight Talk, Nicholas Gans
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 15:45-16:00
   info: Spotlight Talk, Yu Xiang
   locations: Auditorium
-  color: "background-color:#f0f0f0"
+  color: "background-color:#ffffff"
 
 - time: 16:00-16:00
   info: Closing Remarks, Transition to Tours
   locations: Auditorium
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 16:00-17:00
   info: Posters / Networking / Coffee
   locations: Event space
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
 - time: 16:00-17:00
   info: Tours
   locations: TBD
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
