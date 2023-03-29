@@ -15,6 +15,7 @@
 
     tr:nth-child(odd) {
       background-color: #dddddd;
+      /*background-color: #b1b4f2;*/
     }
   </style>
   <div class="container">
@@ -48,9 +49,9 @@
           </tr>
           {% for table_item in site.data.teros_2023.agenda %}
           <tr>
-            <td>{{table_item.time}} <br /></td>
-            <td colspan="2">{{table_item.info}} <br /></td>
-            <td colspan="1.5">{{table_item.locations}} <br /></td>
+            <td style={{table_item.color}}>{{table_item.time}} <br /></td>
+            <td colspan="2" style={{table_item.color}}>{{table_item.info}} <br /></td>
+            <td colspan="1.5" style={{table_item.color}}>{{table_item.locations}} <br /></td>
           </tr>
           {% endfor %}
         </tbody>
