@@ -59,11 +59,21 @@
   website: https://www.me.utexas.edu/people/faculty-directory/deshpande
 
 - title: Spotlight-Speaker 7
-  name: Yan Wan
-  subtitle: Professor
-  img: Wan.jpeg
-  thumbnail: Wan.jpeg
-  alt: Picture of Wan
+  name: Shaun Azimi
+  subtitle: Dexterous Robotics Team Leader
+  img: Azimi.png
+  thumbnail: Azimi.png
+  alt: Picture of Azimi
   topic: Topic
-  affiliation: UT Arlington
-  website: https://www.uta.edu/academics/faculty/profile?username=wany
+  affiliation: NASA Johnson Space Center
+  website: https://www.nasa.gov/er/er4
+
+# - title: Spotlight-Speaker 7
+#   name: Yan Wan
+#   subtitle: Professor
+#   img: Wan.jpeg
+#   thumbnail: Wan.jpeg
+#   alt: Picture of Wan
+#   topic: Topic
+#   affiliation: UT Arlington
+#   website: https://www.uta.edu/academics/faculty/profile?username=wany
