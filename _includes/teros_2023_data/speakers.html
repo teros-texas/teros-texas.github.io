@@ -60,6 +60,28 @@
             </div>
         </div>
 
+      <h3 class="section-heading">Posters and Industry Booths</h3>
+      <p>Along with talks from distinguished speakers, the symposium will feature <b>30</b> exciting posters and industry booths. Participants will have the opportunity to interact with the poster and booth presenters during networking sessions scheduled throughout the day.</p>
+
+
+         <div class="row container">
+            <div class="row">
+                <div class="col-lg-12 text-left">
+          {% for speaker in site.data.teros_2023.booths %}
+
+              <div class="col-md-4 col-sm-6 col-xs-12 col-lg-3 speakers-item">
+                <a href="#{{ speaker.name }}" class="speakers-link" data-toggle="modal">
+                      <img src="/assets/img/booths/{{ speaker.img }}" class="img-responsive img-centered" style="width: 90%; height: auto; margin-top:0px"  alt="">
+                  </a>
+                  <div class="speakers-caption text-center">
+                      <h4 style="line-height: 40%"><a href="{{speaker.website}}">{{ speaker.name }}</a></h4>
+                  </div>
+              </div>
+          {% endfor %}
+                </div>
+            </div>
+        </div>
+
     </div>
   </div>
 
