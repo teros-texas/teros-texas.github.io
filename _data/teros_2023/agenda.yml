@@ -19,7 +19,7 @@
   color: "background-color:#ffffff"
 
 - time: 10:00-11:00
-  info: Posters / Networking / Coffee Breaks
+  info: Posters / Industry Booths / Coffee
   locations: Event space
   color: "background-color:#f0f0f0"
 
@@ -64,7 +64,7 @@
   color: "background-color:#ffffff"
 
 - time: 14:30-15:00
-  info: Posters / Networking / Coffee Breaks
+  info: Posters / Industry Booths / Coffee
   locations: Event space
   color: "background-color:#f0f0f0"
 
@@ -89,7 +89,7 @@
   color: "background-color:#f0f0f0"
 
 - time: 16:00-17:00
-  info: Posters / Networking / Coffee / Tours
+  info: Networking / Coffee / Tours
   locations: Event space
   color: "background-color:#f0f0f0"
 
