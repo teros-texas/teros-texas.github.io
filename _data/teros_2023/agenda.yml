@@ -1,6 +1,6 @@
 - time: 08:00-17:00
   info: Registration Desk opens
-  locations: Prefunction area
+  locations:
   color: "background-color:#f0f0f0"
 
 - time: 08:45-09:00
@@ -9,12 +9,12 @@
   color: "background-color:#f0f0f0"
 
 - time: 09:00-09:30
-  info: Keynote Speaker, Moshe Vardi
+  info: <b>Moshe Vardi</b> The Siren Song of Temporal Synthesis
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 09:30-10:00
-  info: Keynote Speaker, Luis Sentis
+  info: <b>Luis Sentis</b> Embodiment of Complex General Purpose Robots
   locations: Auditorium
   color: "background-color:#ffffff"
 
@@ -24,22 +24,22 @@
   color: "background-color:#f0f0f0"
 
 - time: 11:00-11:15
-  info: Spotlight Talk, Shaun Azimi
+  info: <b>Shaun Azimi</b>  Remote Robotic Operations Supporting Human Space Exploration
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 11:15-11:30
-  info: Spotlight Talk, Roberto Martín-Martín
+  info: <b>Roberto Martín-Martín</b>  Mobile Manipulation-Integration vs. Factorization
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 11:30-11:45
-  info: Spotlight Talk, Kiju Lee
+  info: <b>Kiju Lee</b>  Swarm Robotics and its Potential for Complex Problems
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 11:45-12:00
-  info: Spotlight Talk, Anoop Rajappan
+  info: <b>Anoop Rajappan</b>  Textile-Enabled Technologies for Wearable Robots
   locations: Auditorium
   color: "background-color:#ffffff"
 
@@ -49,17 +49,17 @@
   color: "background-color:#f0f0f0"
 
 - time: 13:30-14:00
-  info: Keynote Speaker, Ann Majewicz Fey
+  info: <b>Ann Majewicz Fey</b> Hardware and Algorithmic Tools to Enhance  Surgical Training
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 14:00-14:15
-  info: Spotlight Talk, Stuart Corr
+  info: <b>Stuart Corr</b> Houston Methodist Institute for Robotics, Imaging & Navigation
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 14:15-14:30
-  info: Spotlight Talk, Ashish Deshpande
+  info: <b>Ashish Deshpande</b> Harmony Exoskeleton- from Robotics Lab to Stroke Patients
   locations: Auditorium
   color: "background-color:#ffffff"
 
@@ -69,31 +69,27 @@
   color: "background-color:#f0f0f0"
 
 - time: 15:00-15:30
-  info: Keynote Speaker, Dezhen Song
+  info: <b>Dezhen Song</b>  Co-Modality Active sensing and Perception (C-MAP)
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 15:30-15:45
-  info: Spotlight Talk, Nicholas Gans
+  info: <b>Nicholas Gans</b>  Adding Safety to Learning by Demonstration
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 15:45-16:00
-  info: Spotlight Talk, Yu Xiang
+  info: <b>Yu Xiang</b>  Object-Centric Perception for Robot Manipulation
   locations: Auditorium
   color: "background-color:#ffffff"
 
 - time: 16:00-16:00
-  info: Closing Remarks, Transition to Tours
+  info: Closing Remarks and Transition to Tours
   locations: Auditorium
   color: "background-color:#f0f0f0"
 
 - time: 16:00-17:00
-  info: Posters / Networking / Coffee
+  info: Posters / Networking / Coffee / Tours
   locations: Event space
   color: "background-color:#f0f0f0"
 
-- time: 16:00-17:00
-  info: Tours
-  locations: TBD
-  color: "background-color:#f0f0f0"
