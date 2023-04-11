@@ -1,10 +1,10 @@
 <section id="schedules">
   <style>
-    table {
+/*    table {
       font-family: arial, sans-serif;
       border-collapse: collapse;
       width: 100%;
-    }
+    }*/
 
     td,
     th {
@@ -17,6 +17,23 @@
       background-color: #dddddd;
       /*background-color: #b1b4f2;*/
     }
+
+    /* make the table a 100% wide by default */
+    table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      margin-left: -50px;
+    width: 135%;}
+
+    /* if the browser window is at least 800px-s wide: */
+    @media screen and (min-width: 800px) {
+      table {
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      margin-left: auto;
+      width: 100%;}
+    }
+
   </style>
   <div class="container">
     <div class="row">
