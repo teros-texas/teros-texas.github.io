@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  <style type="text/css">
+    /*INCLUDE MAIN CSS FILE*/
+    {% capture criticalcss %}
+      {% include teros_2024_css/critical.scss %}
+    {% endcapture %}
+    {{ criticalcss | scssify }}
+  </style>
+  
+  {% include teros_2024_data/head.html %}
+  {% include teros_2024_data/js.html %}
+
+  <body>
+    {% include teros_2024_data/header-home.html %}
+        {{ content }}
+  </body>
+  {% include teros_2024_data/footer.html %}
+</html>
