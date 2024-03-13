@@ -370,7 +370,8 @@ header {
     text-align: center;
     color: # {{ site.data.template.color.primary }};
     background-attachment: scroll;
-    background-image: url("/assets/img/header-bg-transparent.jpg");
+/*    background-image: url("/assets/img/header-bg-transparent.jpg");*/
+    background-image: url("/assets/img/zachry2.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -384,6 +385,15 @@ header .intro-text {
     /* padding-top: 10vh; */
     padding-top: 10%;
     padding-bottom: 50px;
+    color: white;
+    filter: drop-shadow(6px 4px 4px #000000);
+
+/*    mix-blend-mode: difference;*/
+/*    background: inherit;*/
+/*    background: black;*/
+/*  background-clip: text;*/
+/*  color: transparent;*/
+/*  filter: invert(1);*/
 }
 
 header .intro-text .intro-lead-in {

@@ -1,27 +1,27 @@
 
 
 - name: Robert Ambrose
-  profile_image: rambrose.jpg
+  profile_image: ambrose.png
   email: rambrose [at] tamu.edu
   website: https://engineering.tamu.edu/mechanical/profiles/ambrose-robert.html
 
 - name: Gray Thomas
-  profile_image: gthomas.jpg
+  profile_image: gray.png
   email: gthomas [at] tamu.edu
   website: https://engineering.tamu.edu/mechanical/profiles/thomas-gray.html
 
 - name: Kiju Lee
-  profile_image: klee.jpg
+  profile_image: kiju.png
   email: kiju.lee [at] tamu.edu
   website: https://engineering.tamu.edu/etid/profiles/lee-kiju.html
 
 - name: Aniruddha Datta
-  profile_image: a-datta.jpg
+  profile_image: datta.png
   email: a-datta [at] tamu.edu
   website: https://engineering.tamu.edu/electrical/profiles/adatta.html
 
 - name: Yuke Zhu
-  profile_image: yukez.jpg
+  profile_image: yuke.png
   email: yukez [at] cs.utexas.edu
   website: https://yukezhu.me/
 
@@ -29,6 +29,10 @@
   profile_image: unhelkar.png
   email: unhelkar [at] rice.edu
   website: https://unhelkar.github.io/
+
+- name: Sheila Dotson
+  profile_image: sheila.jpeg
+  email: dotson [at] tamu.edu
 
 # - name: Daniel J. Preston
 #   profile_image: preston.jpg

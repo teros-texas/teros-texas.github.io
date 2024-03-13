@@ -9,6 +9,50 @@
 #   website: https://unhelkar.github.io/
 #   description: Intelligent machines (such as robots and decision suppor of Computer Science and Bioengineering at Rice University. She obtained her B.A. from the University of Crete in Greece and her Ph.D. from Stanford University. She is the Director of the Ken Kennedy Institute at Rice University. Kavraki also leads the NIH/NLM Training Program in Biomedical Informatics under the auspices of the Gulf Coast Consortia in Houston. Her interests are in AI and its applications in robotics and medicine. Kavraki is the recipient of the ACM Grace Murray Hopper Award, the ACM Athena Award, and the ACM-AAAI Allen Newell Award. She is a Fellow of ACM, IEEE, AAAS, AAAI, AIMBE, a member of the National Academy of Medicine of the USA, Academia Europaea, and the Academy of Athens. Information about her work can be found at www.kavrakilab.org.
 
+
+
+
+- title: Keynote-Speaker 1
+  name: Mitch Pryor
+  subtitle: Research Professor
+  img: Pryor-Mitch-2021.jpeg
+  thumbnail: Pryor-Mitch-2021.jpeg
+  alt: Picture of Mitch Pryor
+  topic: Topic
+  affiliation: UT Austin
+  website: https://robotics.me.utexas.edu/people/9-faculty/2-mitch-pryor
+
+
+- title: Keynote-Speaker 2
+  name: Shaun Azimi
+  subtitle: Dexterous Robotics Team Leader
+  img: Azimi.png
+  thumbnail: Azimi.png
+  alt: Picture of Azimi
+  topic: Topic
+  affiliation: NASA Johnson Space Center
+  website: https://www.nasa.gov/er/er4
+
+- title: Keynote-Speaker 3
+  name: Kaiyu Hang
+  subtitle: Assistant Professor
+  img: KaiyuHang600x600.jpg
+  thumbnail: KaiyuHang600x600.jpg
+  alt: Picture of Kaiyu Hang
+  topic: Topic
+  affiliation: Rice
+  website: https://hangkaiyu.github.io/
+
+- title: Keynote-Speaker 4
+  name: José del R. Millán
+  subtitle: Professor
+  img: jose_millan.png
+  thumbnail: jose_millan.png
+  topic: Topic
+  affiliation: UT Austin
+  website: https://sites.utexas.edu/jdrmillan/
+
+
 # - title: Keynote-Speaker 1
 #   name: Ann Majewicz Fey
 #   subtitle: Professor

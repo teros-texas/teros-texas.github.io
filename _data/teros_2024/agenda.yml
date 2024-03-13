@@ -1,17 +1,17 @@
 - time: 08:00-17:00
   info: Registration Desk opens
-  locations:
+  locations: Hallway
   color: "background-color:#f0f0f0"
 
-# - time: 08:45-09:00
-#   info: Introduction
-#   locations: Auditorium
-#   color: "background-color:#f0f0f0"
+- time: 08:45-09:00
+  info: Introduction
+  locations: Chevron Rooms
+  color: "background-color:#f0f0f0"
 
-# - time: 09:00-09:30
-#   info: <b>Moshe Vardi</b> The Siren Song of Temporal Synthesis
-#   locations: Auditorium
-#   color: "background-color:#ffffff"
+- time: 09:00-09:30
+  info: <b>Shaun Azimi</b> TBD
+  locations: Chevron Rooms
+  color: "background-color:#ffffff"
 
 # - time: 09:30-10:00
 #   info: <b>Luis Sentis</b> Embodiment of Complex General Purpose Robots
