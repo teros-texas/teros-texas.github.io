@@ -9,12 +9,12 @@
   color: "background-color:#ffffff"
 
 - time: 09:00-09:30
-  info: <b>Mitch Pryor</b> 
+  info: Keynote <b>Mitch Pryor</b> 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 - time: 09:30-10:00
-  info: <b>Shaun Azimi</b> 
+  info: Keynote <b>Shaun Azimi</b> 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
@@ -25,38 +25,38 @@
 
 
 - time: 11:00-11:15
-  info: <b>Elyse Chase</b> 
+  info: Spotlight <b>Elyse Chase</b> 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
 - time: 11:15-11:30
-  info: <b>Gray Thomas</b> 
+  info: Spotlight <b>Gray Thomas</b>, Operator-Induced Instability and Human Strength Amplification
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 - time: 11:30-11:45
-  info: <b>Meera Towler</b> 
+  info: Spotlight <b>Meera Towler</b> 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
 - time: 11:45-12:00
-  info: <b>James Holley</b> 
+  info: Spotlight <b>James Holley</b> 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 
 - time: 12:00-13:30
-  info: Lunch
-  locations: 
+  info: Lunch / Networking
+  locations: Chevron Rooms / Hallway / Outdoor Area
   color: "background-color:#ffffff"
 
 - time: 13:30-14:00
-  info: <b>Kaiyu Hang</b> 
+  info: Keynote <b>Kaiyu Hang</b>, Robust Robot Manipulation with Less Wishful Assumptions 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 - time: 14:00-14:30
-  info: <b>Jose Millan</b> 
+  info: Keynote <b>Jose Millan</b> 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
@@ -67,33 +67,33 @@
   color: "background-color:#f0f0f0"
 
 - time: 15:00-15:15
-  info: <b>Isuru Godage</b> 
+  info: Spotlight <b>Isuru Godage</b> 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
 - time: 15:15-15:30
-  info: <b>Wil Thomason</b> 
+  info: Spotlight <b>Wil Thomason</b> 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 - time: 15:30-15:45
-  info: <b>Dileep Kalathil</b> 
+  info: Spotlight <b>Dileep Kalathil</b> 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
 - time: 15:45-16:00
-  info: <b>Logan Farrel</b> 
+  info: Spotlight <b>Logan Farrel</b> 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 
-# - time: 16:00-16:00
-#   info: Closing Remarks and Transition to Tours
-#   locations: Auditorium
-#   color: "background-color:#f0f0f0"
+- time: 16:00-16:15
+  info: Organizers' Closing Remarks and TEROS 2025
+  locations: Chevron Rooms
+  color: "background-color:#ffffff"
 
-- time: 16:00-17:00
+- time: 16:15-17:00
   info: Networking / Coffee
   locations: Chevron Rooms / Hallway / Outdoor Area 
-  color: "background-color:#ffffff"
+  color: "background-color:#f0f0f0"
 
