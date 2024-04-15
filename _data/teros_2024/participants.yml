@@ -1,6 +1,11 @@
-- name: Texas Tech
-  image: texas_tech.png
-  width: 80
+- name: TAMU
+  image: tamu.png
+  width: 140
+  top: -50
+
+- name: UT Austin
+  image: ut_austin.png
+  width: 70
   top: 0
 
 - name: Rice
@@ -8,20 +13,19 @@
   width: 120
   top: 10
 
-- name: TAMU
-  image: tamu.png
-  width: 140
-  top: -50
 
+
+# - name: Texas Tech
+#   image: texas_tech.png
+#   width: 80
+#   top: 0
+  
 # - name: UT Arlington
 #   image: ut_arlington.png
 #   width: 60
 #   top: 0
 
-# - name: UT Austin
-#   image: ut_austin.png
-#   width: 70
-#   top: 0
+
 
 # - name: UT San Antonio
 #   image: utsa.svg
