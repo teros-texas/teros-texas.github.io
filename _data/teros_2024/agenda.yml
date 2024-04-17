@@ -14,7 +14,7 @@
   color: "background-color:#f0f0f0"
 
 - time: 09:30-10:00
-  info: Keynote <b>Shaun Azimi</b> 
+  info: "Keynote <b>Shaun Azimi</b>, Beyond rockets and rovers: how mobile dexterous robots can revolutionize space exploration" 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
@@ -82,7 +82,7 @@
   color: "background-color:#ffffff"
 
 - time: 15:45-16:00
-  info: Spotlight <b>Logan Farrell</b> 
+  info: "Spotlight <b>Logan Farrell</b>, Rugged Robotics: Automation in the Construction Industry" 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
