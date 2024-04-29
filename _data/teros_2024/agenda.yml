@@ -4,12 +4,12 @@
   color: "background-color:#f0f0f0"
 
 - time: 08:45-09:00
-  info: <b>TBD</b> Welcome
+  info: <b>Robert Ambrose</b> Welcome
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
 - time: 09:00-09:30
-  info: Keynote <b>Mitch Pryor</b> 
+  info: Keynote <b>Mitch Pryor</b>, TBA 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
@@ -40,7 +40,7 @@
   color: "background-color:#ffffff"
 
 - time: 11:45-12:00
-  info: Spotlight <b>James Holley</b> 
+  info: "Spotlight <b>James Holley</b>, Novium: Value Centered Engineering" 
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
@@ -67,17 +67,17 @@
   color: "background-color:#f0f0f0"
 
 - time: 15:00-15:15
-  info: Spotlight <b>Isuru Godage</b> 
+  info: Spotlight <b>Isuru Godage</b>, Trends in Mobile Robotics 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
 - time: 15:15-15:30
-  info: Spotlight <b>Wil Thomason</b>, High-performance motion planning for manipulators with ubiquitous hardware acceleration
+  info: Spotlight <b>Wil Thomason</b>, High-Performance Motion Planning for Manipulators with Ubiquitous Hardware Acceleration
   locations: Chevron Rooms
   color: "background-color:#f0f0f0"
 
 - time: 15:30-15:45
-  info: Spotlight <b>Dileep Kalathil</b> 
+  info: Spotlight <b>Dileep Kalathil</b>, Robust Reinforcement Learning for Dynamical Systems 
   locations: Chevron Rooms
   color: "background-color:#ffffff"
 
