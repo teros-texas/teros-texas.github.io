@@ -1,0 +1,27 @@
+<section id="contact">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-left">
+
+        <h2>Contact us</h2>
+        <p>For more information, contact <a href="https://www.swri.org/user/226/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo=">Paul Evans</a> (+1 210 522 2994) or <a href="https://www.swri.org/user/4761/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo=">Meera Towler</a> (+1 210 522 6339).</p>
+
+        <h2>Organizers</h2>
+          <br/>
+          {% for organizer in site.data.teros_2025.teams %}
+            <div class="col-md-4 col-sm-4 col-xs-12 col-lg-5 speakers-item">
+              <a href="#{{ organizer.name }}" class="speakers-link" data-toggle="modal">
+              <img src="/assets/img/team/{{ organizer.profile_image }}" class="img-responsive img-centered" style="padding-top: 1%;width:auto%;height:50%;  justify-content: center;" alt="">
+              </a>
+              <div class="speakers-caption text-center">
+                <h4 style="line-height: 40%; font-size:115%"><a href="{{organizer.website}}">{{ organizer.name }}</a></h4>
+              </div>
+            </div>
+          {% endfor %}
+          <br/>
+
+      </div>
+    </div>
+  </div>
+</section>
