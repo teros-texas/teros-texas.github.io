@@ -1,97 +1,97 @@
-- time: "08:00-09:00"
+- time: "08:00"
   info: |-
     Registration Desk Open and Posters
   locations: "SwRI Building 263"
   color: &logistics "background-color:#b894db"
 
-- time: "09:00-09:05"
+- time: "09:00"
   info: |-
     Welcome to Southwest Research Institute® (SwRI®)  
     Steve Dellenback
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "09:05-09:15"
+- time: "09:05"
   info: |-
     Introduction of TEROS 2025  
     Meera Towler and Paul Evans
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "09:15-09:45"
+- time: "09:15"
   info: |-
     Panel: Research Opportunities in Robotics
   locations: "SwRI Building 263"
   color: &keynote "background-color:#db9494"
 
-- time: "09:45-10:15"
+- time: "09:45"
   info: |-
     Keynote: NASA, Shaun Azimi  
     Title: Building and maintaining a human outpost on Mars with dexterous mobile robots
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "10:15-10:45"
+- time: "10:15"
   info: |-
     Break for Networking and Posters
   locations: "SwRI Building 263"
   color: &networking "background-color:#b8db94"
 
-- time: "10:45-11:15"
+- time: "10:45"
   info: |-
     Spotlight Talks: Researchers
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
 
-- time: "11:15-11:45"
+- time: "11:15"
   info: |-
     Keynote: University of Texas at Austin
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "11:45-12:15"
+- time: "11:45"
   info: |-
     Break for Box Lunches
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "12:15-12:45"
+- time: "12:15"
   info: |-
     Keynote: Plus One Robotics, Erik Nieves
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "12:45-13:45"
+- time: "12:45"
   info: |-
     Keynote: Rice University
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "13:45-14:45"
+- time: "13:45"
   info: |-
     Spotlight Talks: Students
   locations: "SwRI Building 263"
   color: *spotlight
 
-- time: "14:45-15:15"
+- time: "14:45"
   info: |-
     Break for Networking and Posters
   locations: "SwRI Building 263"
   color: *networking
 
-- time: "15:15-15:45"
+- time: "15:15"
   info: |-
     Keynote: Texas A&M University, Rob Ambrose
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "15:45-16:00"
+- time: "15:45"
   info: |-
     Closing Remarks and Transition to Networking and Robotics Lab Tours
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "16:00-17:00"
+- time: "16:00"
   info: |-
     Networking, Posters, and Lab Tours
   locations: "SwRI Building 263"
