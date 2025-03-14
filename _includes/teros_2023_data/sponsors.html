@@ -4,56 +4,27 @@
     <div class="row">
 
       <h3 class="section-heading">Sponsors</h3>
-        <div class="row container">
-
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered"
-                src="assets/img/sponsor/rice.svg" alt=""
-                style="width: 120%; height: auto; margin-top:10px">
+        <div class="container">
+          <div class="row align-items-center">
+            {% for sponsor in site.data.teros_2023.sponsors %}
+            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4">
+              <img src="/assets/img/sponsor/{{sponsor.image}}" alt="{{sponsor.name}} logo"
+                   style="width: 120%; height: auto; margin-top:10px">
             </div>
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered"
-                src="assets/img/sponsor/Rice_Engineering_Formal_Digital_Stacked_Color.png" alt=""
-                style="width: 500%; height: auto; margin-top:-28px">
-            </div>
+            {% endfor %}
+          </div>
         </div>
 
       <h3 class="section-heading">Participating Institutions</h3>
-        <br/>
-
-        <div class="row container">
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered" src="assets/img/participants/ut_austin.png" alt="" style="width: 70%; height: auto ">
+        <div class="container">
+          <div class="row align-items-center">
+            {% for participant in site.data.teros_2023.participants %}
+            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4">
+                  <img src="/assets/img/participants/{{participant.image}}" alt="{{participant.name}} logo" style="width: 100%; height: auto;">
             </div>
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered"
-                src="assets/img/participants/tamu.png" alt=""
-                style="width: 140%; height: auto; margin-top:-50px">
-            </div>
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered" src="assets/img/participants/ut_arlington.png" alt="" style="width: 60%; height: auto">
-            </div>
+            {% endfor %}
+          </div>
         </div>
-
-      <div class="row container">
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered"
-                 src="assets/img/participants/ut_dallas.png"
-                 alt="" style="width: 70%; height: auto; margin-top:0px">
-            </div>
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered"
-                 src="assets/img/participants/ut_southwestern.png"
-                 alt="" style="width: 100%; height: auto; margin-top:15px">
-            </div>
-            <div class="col-md-4 col-sm-12 col-xs-12 col-lg-4 speakers-item">
-                <img class="img-responsive img-centered"
-                src="assets/img/participants/rice.svg" alt=""
-                style="width: 90%; height: auto; margin-top:40px">
-            </div>
-      </div>
-
-
     </div>
   </div>
 </section>
