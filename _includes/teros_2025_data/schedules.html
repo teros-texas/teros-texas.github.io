@@ -42,38 +42,26 @@
         <h3 class="section-subheading text-muted"></h3>
       </div>
     </div>
-
-    <div
-      class="section-title"
-      style="
-        width: 72%;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: auto;
-      "
-    >
-      <table>
-        <colgroup>
-          <col width="13%" />
-          <col width="53%" />
-          <col width="15%" />
-        </colgroup>
-        <tbody>
-          <tr>
-            <td><b>Time</b></td>
-            <td colspan="2"><b>Schedule</b></td>
-            <td colspan="1.5"><b>Location</b></td>
-          </tr>
-          {% for table_item in site.data.teros_2025.agenda %}
-          <tr>
-            <td style={{table_item.color}}>{{table_item.time}} <br /></td>
-            <td colspan="2" style={{table_item.color}}>{{table_item.info}} <br /></td>
-            <td colspan="1.5" style={{table_item.color}}>{{table_item.locations}} <br /></td>
-          </tr>
-          {% endfor %}
-        </tbody>
-      </table>
-    </div>
-    <br />
+    <table><!--
+      <colgroup>
+        <col width="13%" />
+        <col width="53%" />
+        <col width="15%" />
+      </colgroup>-->
+      <tbody>
+        <tr>
+          <td><b>Time</b></td>
+          <td><b>Schedule</b></td>
+          <td><b>Location</b></td>
+        </tr>
+        {% for table_item in site.data.teros_2025.agenda %}
+        <tr style={{table_item.color}}>
+          <td>{{table_item.time}} <br /></td>
+          <td>{{table_item.info | newline_to_br}}</td>
+          <td>{{table_item.locations}} <br /></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
 </section>
