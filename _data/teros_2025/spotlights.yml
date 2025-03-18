@@ -10,3 +10,16 @@
 #   topic: Topic
 #   affiliation: NASA Johnson Space Center
 #   website: https://www.nasa.gov/er/er4
+- name: Cody Gonzalez
+  subtitle: Assistant Professor
+  img: headshot-gonzalez-cody.jpeg
+  alt: Cody Gonzalez headshot
+  affiliation: UTSA
+- name: Shane King
+  affiliation: Rice University
+- name: Thai Duong
+  affiliation: Rice University
+- name: Farshid Asadi
+  affiliation: SMU
+- name: Weihang Guo
+  affiliation: Rice University
