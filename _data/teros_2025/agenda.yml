@@ -7,14 +7,14 @@
 - time: "09:00"
   info: |-
     Welcome to Southwest Research Institute® (SwRI®)  
-    Steve Dellenback
+    <strong>Steve Dellenback</strong>, Vice President—R&D
   locations: "SwRI Building 263"
   color: *logistics
 
 - time: "09:05"
   info: |-
     Introduction of TEROS 2025  
-    Meera Towler and Paul Evans
+    <strong>Meera Towler</strong> and <strong>Paul Evans</strong>, SwRI
   locations: "SwRI Building 263"
   color: *logistics
 
@@ -26,8 +26,8 @@
 
 - time: "09:45"
   info: |-
-    Keynote: NASA, Shaun Azimi  
-    Title: Building and maintaining a human outpost on Mars with dexterous mobile robots
+    Keynote: <strong>Shaun Azimi</strong>, NASA
+    <em>Building and Maintaining a Human Outpost on Mars with Dexterous Mobile Robots</em>
   locations: "SwRI Building 263"
   color: *keynote
 
@@ -40,12 +40,19 @@
 - time: "10:45"
   info: |-
     Spotlight Talks: Researchers
+    <ul>
+      <li><strong>Thai Duong</strong>, Rice University
+      <li><strong>Cody Gonzales</strong>, Rice University
+          <em>Multifunctional Lithium-ion Batteries, a Path to Self-Powered Robotics</em>
+      <li><strong>Shane King</strong>, UTSA
+    </ul>
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
 
 - time: "11:15"
   info: |-
-    Keynote: University of Texas at Austin
+    Keynote: <strong>Joydeep Biswar</strong>, University of Texas at Austin
+    <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel</em> Tasks"
   locations: "SwRI Building 263"
   color: *keynote
 
@@ -57,19 +64,23 @@
 
 - time: "12:15"
   info: |-
-    Keynote: Plus One Robotics, Erik Nieves
+    Keynote: <strong>Erik Nieves</strong>, Plus One Robotics
   locations: "SwRI Building 263"
   color: *keynote
 
 - time: "12:45"
   info: |-
-    Keynote: Rice University
+    Keynote: <strong>Vaibhav Unhelkar</strong>, Rice University
   locations: "SwRI Building 263"
   color: *keynote
 
 - time: "13:45"
   info: |-
     Spotlight Talks: Students
+    <ul>
+      <li><strong>Farshid Asadi</strong>, SMU
+      <li><strong>Weihang Guo</strong>, Rice University
+    </ul>
   locations: "SwRI Building 263"
   color: *spotlight
 
@@ -81,13 +92,14 @@
 
 - time: "15:15"
   info: |-
-    Keynote: Texas A&M University, Rob Ambrose
+    Keynote: <strong>Rob Ambrose</strong>, Texas A&M University
   locations: "SwRI Building 263"
   color: *keynote
 
 - time: "15:45"
   info: |-
-    Closing Remarks and Transition to Networking and Robotics Lab Tours
+    Closing Remarks
+    Transition to Networking and Robotics Lab Tours
   locations: "SwRI Building 263"
   color: *logistics
 
