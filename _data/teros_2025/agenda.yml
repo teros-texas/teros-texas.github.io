@@ -21,6 +21,9 @@
 - time: "09:15"
   info: |-
     Panel: Research Opportunities in Robotics
+    <ul>
+      <li><strong>Christy Cardenas</strong>, Iris
+    </ul>
   locations: "SwRI Building 263"
   color: &keynote "background-color:#db9494"
 
