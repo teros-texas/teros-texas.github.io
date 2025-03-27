@@ -16,13 +16,25 @@
   alt: Cody Gonzalez headshot
   affiliation: UTSA
 - name: Shane King
+  subtitle: Postdoctoral Fellow
   affiliation: Rice University
+  img: 2025-headshot-king-shane.jpeg
+  alt: Shane King headshot
+  website: https://profiles.rice.edu/faculty/shane-king
 - name: Thai Duong
+  subtitle: Postdoctoral Research Associate
   affiliation: Rice University
+  img: 2025-headshot-duong-thai.jpeg
+  alt: Thai Duong headshot
+  website: https://thaipduong.github.io/
 - name: Farshid Asadi
   affiliation: SMU
 - name: Weihang Guo
+  subtitle: PhD Student
   affiliation: Rice University
+  img: 2025-headshot-guo-weihang.jpeg
+  alt: Weihang Guo headshot
+  website: https://www.whguo.me/
 - name: Arthur Zhang
   affiliation: UT-Austin
 - name: Lillian Chin

@@ -47,9 +47,11 @@
       <li><strong>Lillian Chin</strong>, UT-Austin
           <em>Material Matters:  Designing Robot Bodies in Dialogue with Computation</em>
       <li><strong>Thai Duong</strong>, Rice University
-      <li><strong>Cody Gonzales</strong>, Rice University
+          <em>Preserving Structures in Dynamics Learning and Control for Autonomous Robot Navigation</em>
+      <li><strong>Cody Gonzales</strong>, UTSA
           <em>Multifunctional Lithium-ion Batteries, a Path to Self-Powered Robotics</em>
-      <li><strong>Shane King</strong>, UTSA
+      <li><strong>Shane King</strong>, Rice University
+          <em>Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices</em>
     </ul>
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
@@ -57,7 +59,7 @@
 - time: "11:15"
   info: |-
     Keynote: <strong>Joydeep Biswas</strong>, University of Texas at Austin
-    <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel</em> Tasks"
+    <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks</em>
   locations: "SwRI Building 263"
   color: *keynote
 
@@ -76,6 +78,7 @@
 - time: "12:45"
   info: |-
     Keynote: <strong>Vaibhav Unhelkar</strong>, Rice University
+    <em>Interactive AI Techniques for Training Human-Robot Teams</em>
   locations: "SwRI Building 263"
   color: *keynote
 
@@ -85,6 +88,7 @@
     <ul>
       <li><strong>Farshid Asadi</strong>, SMU
       <li><strong>Weihang Guo</strong>, Rice University
+          <em>CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning</em>
       <li><strong>Arthur Zhang</strong>, UT-Austin
     </ul>
   locations: "SwRI Building 263"
