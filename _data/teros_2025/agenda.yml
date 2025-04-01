@@ -56,33 +56,33 @@
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
 
-- time: "11:15"
+- time: "11:45"
   info: |-
     Keynote: <strong>Joydeep Biswas</strong>, University of Texas at Austin
     <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks</em>
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "11:45"
+- time: "12:15"
   info: |-
     Break for Box Lunches
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "12:15"
+- time: "13:00"
   info: |-
     Keynote: <strong>Erik Nieves</strong>, Plus One Robotics
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "12:45"
+- time: "13:30"
   info: |-
     Keynote: <strong>Vaibhav Unhelkar</strong>, Rice University
     <em>Interactive AI Techniques for Training Human-Robot Teams</em>
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "13:45"
+- time: "14:00"
   info: |-
     Spotlight Talks: Students
     <ul>
@@ -94,19 +94,19 @@
   locations: "SwRI Building 263"
   color: *spotlight
 
-- time: "14:45"
+- time: "15:00"
   info: |-
     Break for Networking and Posters
   locations: "SwRI Building 263"
   color: *networking
 
-- time: "15:15"
+- time: "15:30"
   info: |-
     Keynote: <strong>Rob Ambrose</strong>, Texas A&M University
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "15:45"
+- time: "16:00"
   info: |-
     Closing Remarks
     Transition to Networking and Robotics Lab Tours
