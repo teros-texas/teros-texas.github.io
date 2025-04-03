@@ -52,6 +52,8 @@
           <em>Multifunctional Lithium-ion Batteries, a Path to Self-Powered Robotics</em>
       <li><strong>Shane King</strong>, Rice University
           <em>Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices</em>
+      <li><strong>Vinayak Krishnamurthy</strong>, Texas A&M University
+      <li><strong>Manoranjan Majji</strong>, Texas A&M University
     </ul>
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
@@ -71,7 +73,7 @@
 
 - time: "13:00"
   info: |-
-    Keynote: <strong>Erik Nieves</strong>, Plus One Robotics
+    Keynote: <strong>Shaun Edwards</strong>, Plus One Robotics
   locations: "SwRI Building 263"
   color: *keynote
 
@@ -90,6 +92,7 @@
       <li><strong>Weihang Guo</strong>, Rice University
           <em>CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning</em>
       <li><strong>Arthur Zhang</strong>, UT-Austin
+      <li><strong> Maj. Eddie Hilburn</strong>, Texas A&M University
     </ul>
   locations: "SwRI Building 263"
   color: *spotlight
