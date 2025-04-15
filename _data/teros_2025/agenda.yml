@@ -17,32 +17,47 @@
     <strong>Meera Towler</strong> and <strong>Paul Evans</strong>, SwRI
   locations: "SwRI Building 263"
   color: *logistics
-
+  
 - time: "09:15"
+  info: |-
+    Keynote: <strong>Rob Ambrose</strong>, Texas A&M University
+  locations: "SwRI Building 263"
+  color: &keynote "background-color:#db9494"
+
+
+
+- time: "09:45"
+  info: |-
+    Keynote: <strong>Kamel Saidi</strong>, NIST
+  locations: "SwRI Building 263"
+  color: *keynote
+  
+- time: "10:00"
   info: |-
     Panel: Research Opportunities in Robotics
     <ul>
       <li><strong>Christy Cardenas</strong>, Iris
+      <li><strong>Kamel Saidi</strong>, NIST
+      <li><strong>Alex Sowell</strong>, NASA JSC
     </ul>
   locations: "SwRI Building 263"
-  color: &keynote "background-color:#db9494"
 
-- time: "09:45"
-  info: |-
-    Keynote: <strong>Shaun Azimi</strong>, NASA
-    <em>Building and Maintaining a Human Outpost on Mars with Dexterous Mobile Robots</em>
-  locations: "SwRI Building 263"
-  color: *keynote
-
-- time: "10:15"
+- time: "10:30"
   info: |-
     Break for Networking and Posters
   locations: "SwRI Building 263"
   color: &networking "background-color:#b8db94"
-
-- time: "10:45"
+  
+- time: "11:00"
   info: |-
-    Spotlight Talks: Researchers
+    Keynote: <strong>Joydeep Biswas</strong>, University of Texas at Austin
+    <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks</em>
+  locations: "SwRI Building 263"
+  color: *keynote
+
+- time: "11:30"
+  info: |-
+    Spotlight Talks: Round 1
     <ul>
       <li><strong>Lillian Chin</strong>, UT-Austin
           <em>Material Matters:  Designing Robot Bodies in Dialogue with Computation</em>
@@ -54,62 +69,53 @@
           <em>Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices</em>
       <li><strong>Vinayak Krishnamurthy</strong>, Texas A&M University
       <li><strong>Manoranjan Majji</strong>, Texas A&M University
+          <em>Autonomous Space Robotic Systems: Challenges and Opportunities</em>
     </ul>
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
 
-- time: "11:45"
-  info: |-
-    Keynote: <strong>Joydeep Biswas</strong>, University of Texas at Austin
-    <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks</em>
-  locations: "SwRI Building 263"
-  color: *keynote
-
-- time: "12:15"
+- time: "12:30"
   info: |-
     Break for Box Lunches
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "13:00"
+- time: "13:15"
   info: |-
     Keynote: <strong>Shaun Edwards</strong>, Plus One Robotics
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "13:30"
+- time: "13:45"
   info: |-
     Keynote: <strong>Vaibhav Unhelkar</strong>, Rice University
     <em>Interactive AI Techniques for Training Human-Robot Teams</em>
   locations: "SwRI Building 263"
   color: *keynote
-
-- time: "14:00"
-  info: |-
-    Spotlight Talks: Students
-    <ul>
-      <li><strong>Farshid Asadi</strong>, SMU
-          <em>Motion Planning for Multiple Magnetic Robots Under Global Input</em>
-      <li><strong>Weihang Guo</strong>, Rice University
-          <em>CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning</em>
-      <li><strong>Arthur Zhang</strong>, UT-Austin
-          <em>CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance</em>
-      <li><strong> Maj. Eddie Hilburn</strong>, Texas A&M University
-    </ul>
-  locations: "SwRI Building 263"
-  color: *spotlight
-
-- time: "15:00"
+  
+- time: "14:15"
   info: |-
     Break for Networking and Posters
   locations: "SwRI Building 263"
   color: *networking
 
-- time: "15:30"
+- time: "15:00"
   info: |-
-    Keynote: <strong>Rob Ambrose</strong>, Texas A&M University
+    Spotlight Talks: Round 2
+    <ul>
+      <li><strong>Yildirim Hurmuzlu</strong>, SMU
+          <em>Magnetically actuated millimeter-scale biped</em>
+      <li><strong>Weihang Guo</strong>, Rice University
+          <em>CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning</em>
+      <li><strong>Arthur Zhang</strong>, UT-Austin
+          <em>CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance</em>
+      <li><strong> Maj. Eddie Hilburn</strong>, Texas A&M University
+          <em>Robotic Space Simulator: An Actively Controlled Dual-Spacecraft Microgravity Dynamics Simulator</em>
+      <li><strong>Emma Zemler</strong>, NASA JSC
+          <em>JSC Robotics – iMETRO. The Integrated Mobile Evaluation Testbed for Robotics Operations Facility</em>
+    </ul>
   locations: "SwRI Building 263"
-  color: *keynote
+  color: *spotlight
 
 - time: "16:00"
   info: |-
