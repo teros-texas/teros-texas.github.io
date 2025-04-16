@@ -20,8 +20,8 @@
                 <img src="/assets/img/speaker/{{ headshot }}" class="img-responsive img-centered" style="padding-top: 1%;" alt="">
                 <div class="speakers-caption text-center">
                   <h4 style="line-height: 40%">{% if speaker.website %}<a href="{{speaker.website}}">{{ speaker.name }}</a>{% else %}{{ speaker.name }}{% endif %}</h4>
-                  <p class="text-muted" style="line-height: 10%">{{ speaker.subtitle}}</p>
-                  <p class="text-muted" style="line-height: 10%">{{ speaker.affiliation}}</p>
+                  <p class="text-muted">{{ speaker.subtitle}}</p>
+                  <p class="text-muted">{{ speaker.affiliation}}</p>
                 </div>
               </div>
           {% endfor %}
@@ -43,8 +43,8 @@
                 <img src="/assets/img/spotlights/{{ headshot }}" class="img-responsive img-centered" style="padding-top: 1%;" alt="">
                 <div class="speakers-caption text-center">
                   <h4 style="line-height: 40%">{% if speaker.website %}<a href="{{speaker.website}}">{{ speaker.name }}</a>{% else %}{{ speaker.name }}{% endif %}</h4>
-                    <p class="text-muted" style="line-height: 10%">{{ speaker.subtitle}}</p>
-                    <p class="text-muted" style="line-height: 10%">{{ speaker.affiliation}}</p>
+                    <p class="text-muted">{{ speaker.subtitle}}</p>
+                    <p class="text-muted">{{ speaker.affiliation}}</p>
                 </div>
               </div>
           {% endfor %}
