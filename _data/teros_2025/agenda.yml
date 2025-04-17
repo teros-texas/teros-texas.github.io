@@ -82,26 +82,26 @@
   locations: "SwRI Building 263"
   color: *logistics
 
-- time: "13:15"
+- time: "13:30"
   info: |-
     Keynote: <strong>Shaun Edwards</strong>, Plus One Robotics
   locations: "SwRI Building 263"
   color: *keynote
 
-- time: "13:45"
+- time: "14:00"
   info: |-
     Keynote: <strong>Vaibhav Unhelkar</strong>, Rice University
     <em>Interactive AI Techniques for Training Human-Robot Teams</em>
   locations: "SwRI Building 263"
   color: *keynote
   
-- time: "14:15"
+- time: "14:30"
   info: |-
     Break for Networking and Posters
   locations: "SwRI Building 263"
   color: *networking
 
-- time: "15:00"
+- time: "15:15"
   info: |-
     Spotlight Talks: Round 2
     <ul>
@@ -113,8 +113,6 @@
           <em>CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance</em>
       <li><strong> Maj. Eddie Hilburn</strong>, Texas A&M University
           <em>Robotic Space Simulator: An Actively Controlled Dual-Spacecraft Microgravity Dynamics Simulator</em>
-      <li><strong>Emma Zemler</strong>, NASA JSC
-          <em>JSC Robotics – iMETRO. The Integrated Mobile Evaluation Testbed for Robotics Operations Facility</em>
     </ul>
   locations: "SwRI Building 263"
   color: *spotlight

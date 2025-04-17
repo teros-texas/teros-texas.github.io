@@ -66,11 +66,11 @@
   affiliation: SMU
   img: 2025-headshot-hurmuzlu-yildirim.jpeg
   alt: Yildirim Hurmuzlu headshot
-- name: Emma Zemler
-  subtitle: Software Lead
-  affiliation: NASA Johnson Space Center
-  img: 2025-headshot-zemler-emma.jpeg
-  alt: Emma Zemler headshot
+# - name: Emma Zemler
+#   subtitle: Software Lead
+#   affiliation: NASA Johnson Space Center
+#   img: 2025-headshot-zemler-emma.jpeg
+#   alt: Emma Zemler headshot
 - name: Alex Sowell
   subtitle: Avionics Engineer
   affiliation: NASA Johnson Space Center
