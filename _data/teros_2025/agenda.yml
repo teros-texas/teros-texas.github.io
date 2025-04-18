@@ -70,8 +70,6 @@
           <em>Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices</em>
       <li><strong>Vinayak Krishnamurthy</strong>, Texas A&M University
           <em>Part, Path, Plan: Partitive Geometry for Multi-Robot Cooperative Additive Manufacturing</em>
-      <li><strong>Manoranjan Majji</strong>, Texas A&M University
-          <em>Autonomous Space Robotic Systems: Challenges and Opportunities</em>
     </ul>
   locations: "SwRI Building 263"
   color: &spotlight "background-color:#94dbdb"
@@ -105,6 +103,8 @@
   info: |-
     Spotlight Talks: Round 2
     <ul>
+      <li><strong>Manoranjan Majji</strong>, Texas A&M University
+          <em>Autonomous Space Robotic Systems: Challenges and Opportunities</em>
       <li><strong>Yildirim Hurmuzlu</strong>, SMU
           <em>Magnetically actuated millimeter-scale biped</em>
       <li><strong>Weihang Guo</strong>, Rice University
