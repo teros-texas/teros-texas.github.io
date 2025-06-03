@@ -1,0 +1,7 @@
+{%- comment -%}
+Dynamically load the year-specific venue partial.  
+{%- endcomment -%}
+
+{%- capture file_name -%}venue-{{ page.year }}.html{%- endcapture -%}
+
+{% include {{ file_name }} %}

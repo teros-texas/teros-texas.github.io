@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body id="page-top" class="index">
+    {% include header-home.html %}
+
+    <br />
+    <br />
+
+    <header>
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-heading" style="line-height: 1.5">
+            Texas Regional Robotics Symposium<br />
+          </div>
+          <br />
+          <br />
+          <div class="section-heading">{{ site.data.template[page.year].date }}<br /><br /></div>
+          <div class="section-heading">{{ site.data.template[page.year].host }}<br /></div>
+          <div class="section-heading">{{ site.data.template[page.year].location }}<br /></div>
+        </div>
+      </div>
+    </header>
+
+    {% include about.html %}
+    {% include sponsors.html %}
+    {% include speakers.html %}
+    {% include agenda.html %}
+    {% include venue.html %}
+    {% include organizers.html %}
+    {% include prev.html %}
+    {% include footer.html %}
+    {% include js.html %}
+  </body>
+</html>

@@ -1,0 +1,39 @@
+2023:
+  - name: University of Texas at Austin
+    image: ut_austin.png
+  - name: Texas A&M University
+    image: tamu.png
+  - name: University of Texas at Arlington
+    image: ut_arlington.png
+  - name: University of Texas at Dallas
+    image: ut_dallas.png
+  - name: UT Southwestern Medical Center
+    image: ut_southwestern.png
+  - name: Rice University
+    image: rice.svg
+2024:
+  - name: TAMU
+    image: tamu.png
+    width: 140
+    top: -50
+  - name: UT Austin
+    image: ut_austin.png
+    width: 70
+    top: 0
+  - name: Rice
+    image: rice.svg
+    width: 120
+    top: 10
+2025:
+  - name: TAMU
+    image: tamu.png
+    width: 140
+    top: -50
+  - name: UT Austin
+    image: ut_austin.png
+    width: 70
+    top: 0
+  - name: Rice
+    image: rice.svg
+    width: 120
+    top: 10

@@ -1,0 +1,569 @@
+################################################################################
+# 2023                                                                         #
+################################################################################
+- id: ann-key
+  year: 2023
+  name: Ann Majewicz Fey
+  subtitle: Professor
+  role: keynote
+  img: Fey.jpg
+  thumbnail: Fey.jpg
+  alt: Picture of Fey
+  topic: Topic
+  affiliation: UT Austin
+  website: https://www.me.utexas.edu/people/faculty-directory/amfey
+  bio: Coming Soon...
+- id: luis-sentis
+  year: 2023
+  name: Luis Sentis
+  subtitle: Professor
+  role: keynote
+  img: Sentis.jpg
+  thumbnail: Sentis.jpg
+  alt: Picture of Sentis
+  topic: Topic
+  affiliation: UT Austin
+  website: https://sites.utexas.edu/hcrl/
+  bio: Coming Soon...
+- id: dezhen-song
+  year: 2023
+  name: Dezhen Song
+  subtitle: Professor
+  role: keynote
+  img: Song.jpg
+  thumbnail: Song.jpg
+  alt: Picture of Song
+  topic: Topic
+  affiliation: Texas A&M
+  website: https://people.engr.tamu.edu/dzsong/index.html
+  # website: https://scholar.google.com/citations?user=jdSlREMAAAAJ&hl=en
+  bio: Dezhen Song is a Professor and Associate Department Head for Academics with Department of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA. Song received his Ph.D. in 2004 from University of California, Berkeley; MS and BS from Zhejiang University in 1998 and 1995, respectively. Song's primary research area is robot perception, networked robots, visual navigation, automation, and stochastic modeling. From 2008 to 2012, Song was an associate editor of IEEE Transactions on Robotics (T-RO). From 2010 to 2014, Song was an Associate Editor of IEEE Transactions on Automation Science and Engineering (T-ASE). Song was a Senior Editor for IEEE Robotics and Automation Letters (RA-L) from 2017 to 2021. He is also a multimedia Editor and chapter author for Springer Handbook of Robotics. His research has resulted in one monograph and more than 130 refereed conference and journal publications. Dr. Song received NSF Faculty Early Career Development (CAREER) Award in 2007, Kayamori Best Paper Award of the 2005 IEEE International Conference on Robotics and Automation (ICRA), the 2022 Best Paper Award of the LCT 2022 Affiliated Conference, the 1st place in GM/SAE autonomous driving dynamic competition in 2021, and Amazon Research Award in 2020.
+- id: moshe-vardi
+  year: 2023
+  name: Moshe Vardi
+  subtitle: Professor
+  role: keynote
+  img: Vardi.jpg
+  thumbnail: Vardi.jpg
+  alt: Picture of Vardi
+  topic: Topic
+  affiliation: Rice University
+  website: https://www.cs.rice.edu/~vardi/
+  bio: Coming Soon...
+- id: shaun-azimi
+  year: 2023
+  name: Shaun Azimi
+  subtitle: Dexterous Robotics Team Leader
+  role: spotlight
+  img: Azimi.png
+  thumbnail: Azimi.png
+  alt: Picture of Azimi
+  topic: Topic
+  affiliation: NASA Johnson Space Center
+  website: https://www.nasa.gov/er/er4
+- id: stuart-corr
+  year: 2023
+  name: Stuart Corr
+  subtitle: Professor
+  role: spotlight
+  img: Corr.jpg
+  thumbnail: Corr.jpg
+  alt: Picture of Corr
+  topic: Topic
+  affiliation: Houston Methodist
+  website: https://www.linkedin.com/in/sjcorr/
+- id: ashish-deshpande
+  year: 2023
+  name: Ashish Deshpande
+  subtitle: Professor
+  role: spotlight
+  img: ashish.jpg
+  thumbnail: ashish.jpg
+  alt: Picture of ashish
+  topic: Topic
+  affiliation: UT Austin
+  website: https://www.me.utexas.edu/people/faculty-directory/deshpande
+- id: nicholas-gans
+  year: 2023
+  name: Nicholas Gans
+  subtitle: Professor
+  role: spotlight
+  img: Gans.jpg
+  thumbnail: Gans.jpg
+  alt: Picture of Gans
+  topic: Topic
+  affiliation: UT Arlington
+  website: https://utari.uta.edu/about/staff-directory/nicholas-gans/
+- id: kiju-lee
+  year: 2023
+  name: Kiju Lee
+  subtitle: Professor
+  role: spotlight
+  img: Lee.jpg
+  thumbnail: Lee.jpg
+  alt: Picture of Lee
+  topic: Topic
+  affiliation: Texas A&M
+  website: https://engineering.tamu.edu/etid/profiles/lee-kiju.html
+- id: roberto-martin-martin
+  year: 2023
+  name: Roberto Martín-Martín
+  subtitle: Professor
+  role: spotlight
+  img: Martin-Martin.jpg
+  thumbnail: Martin-Martin.jpg
+  alt: Picture of Martin-Martin
+  topic: Topic
+  affiliation: UT Austin
+  website: https://robertomartinmartin.com/
+- id: anoop-rajappan
+  year: 2023
+  name: Anoop Rajappan
+  subtitle: Postdoc
+  role: spotlight
+  img: anoop.jpg
+  thumbnail: anoop.jpg
+  alt: Picture of Anoop
+  topic: Topic
+  affiliation: Rice University
+  website: https://anoop.rice.edu/
+- id: yu-xiang
+  year: 2023
+  name: Yu Xiang
+  subtitle: Professor
+  role: spotlight
+  img: Xiang.png
+  thumbnail: Xiang.png
+  alt: Picture of Xiang
+  topic: Topic
+  affiliation: UT Dallas
+  website: https://yuxng.github.io/
+- id: vaibhav-unhelkar
+  role: organizer
+  year: 2023
+  name: Vaibhav Unhelkar
+  img: unhelkar.png
+  email: unhelkar [at] rice.edu
+  website: https://unhelkar.github.io/
+- id: kaiyu-hang
+  role: organizer
+  year: 2023
+  name: Kaiyu Hang
+  img: hang.png
+  email: kaiyu.hang [at] rice.edu
+  website: https://hangkaiyu.github.io/
+- id: daniel-preston
+  role: organizer
+  year: 2023
+  name: Daniel J. Preston
+  img: preston.jpg
+  email: djp [at] rice.edu
+  website: https://pi.rice.edu/
+- id: shane-king
+  role: organizer
+  year: 2023
+  name: Shane King
+  img: king.jpg
+  email: sk210 [at] rice.edu
+  website: https://mahilab.rice.edu/
+- id: tianyang-pan
+  role: organizer
+  year: 2023
+  name: Tianyang Pan
+  img: pan.jpg
+  email: tp36 [at] rice.edu
+  website: http://tianyangpan.com/
+- id: carlos-pena
+  role: organizer
+  year: 2023
+  name: Carlos Quintero Peña
+  img: pena.jpg
+  email: carlosq [at] rice.edu
+  website: https://carlosquinterop.github.io/
+- id: peizhu-qian
+  role: organizer
+  year: 2023
+  name: Peizhu "Pam" Qian
+  img: qian.png
+  email: pqian [at] rice.edu
+  website: http://peizhuqian.com/
+- id: kejia-ren
+  role: organizer
+  year: 2023
+  name: Kejia Ren
+  img: ren.jpg
+  email: kr43 [at] rice.edu
+  website: https://scholar.google.com/citations?user=1umO80wAAAAJ&hl=en
+- id: irfan-zobayed
+  role: organizer
+  year: 2023
+  name: Irfan Zobayed
+  img: zobayed.jpg
+  email: iz3 [at] rice.edu
+  website: https://pi.rice.edu
+  
+################################################################################
+# 2024                                                                         #
+################################################################################
+- id: mitch-pryor
+  role: keynote
+  year: 2024
+  name: Mitch Pryor
+  subtitle: Research Professor
+  img: Pryor-Mitch-2021.jpeg
+  thumbnail: Pryor-Mitch-2021.jpeg
+  alt: Picture of Mitch Pryor
+  topic: Topic
+  affiliation: UT Austin
+  website: https://robotics.me.utexas.edu/people/9-faculty/2-mitch-pryor
+- id: shaun-azimi
+  role: keynote
+  year: 2024
+  name: Shaun Azimi
+  subtitle: Dexterous Robotics Team Leader
+  img: Azimi.png
+  thumbnail: Azimi.png
+  alt: Picture of Azimi
+  topic: Topic
+  affiliation: NASA Johnson Space Center
+  website: https://www.nasa.gov/er/er4
+- id: kaiyu-hang
+  role: keynote
+  year: 2024
+  name: Kaiyu Hang
+  subtitle: Assistant Professor
+  img: KaiyuHang600x600.jpg
+  thumbnail: KaiyuHang600x600.jpg
+  alt: Picture of Kaiyu Hang
+  topic: Topic
+  affiliation: Rice
+  website: https://hangkaiyu.github.io/
+- id: jose-millan
+  role: keynote
+  year: 2024
+  name: José del R. Millán
+  subtitle: Professor
+  img: jose_millan.png
+  thumbnail: jose_millan.png
+  topic: Topic
+  affiliation: UT Austin
+  website: https://sites.utexas.edu/jdrmillan/
+- id: elyse-chase
+  role: spotlight
+  year: 2024
+  name: Elyse D. Z. Chase
+  subtitle: Postdoctoral Fellow
+  affiliation: Rice
+  img: riceAcademy_elysedzc - Elyse Chase.webp
+  thumbnail: riceAcademy_elysedzc - Elyse Chase.webp
+  website: https://riceacademy.rice.edu/junior-fellows/dr-elyse-d-z-chase
+- id: gray-thomas
+  role: spotlight
+  year: 2024
+  name: Gray Thomas
+  subtitle: Assistant Professor
+  affiliation: TAMU
+  website: https://herc.engr.tamu.edu/people/
+  img: gray.png
+  thumbnail: gray.png
+- id: meera-towler
+  role: spotlight
+  year: 2024
+  name: Meera Day Towler, P.E.
+  subtitle: Senior Research Engineer
+  img: meera.jpeg
+  thumbnail: meera.jpeg
+  website: https://www.linkedin.com/in/meera-day-towler-p-e-b1925766/
+  affiliation: Southwest Research Institute
+- id: james-holley
+  role: spotlight
+  year: 2024
+  name: James Holley
+  subtitle: Co-Founder
+  affiliation: Novium
+  img: James_Holley3.jfif
+  thumbnail: James_Holley3.jfif
+  website: https://novium.ltd/about
+- id: isuru-godage
+  role: spotlight
+  year: 2024
+  name: Isuru Godage
+  subtitle: Assistant Professor
+  affiliation: TAMU
+  website: https://engineering.tamu.edu/etid/profiles/godage-isuru.html
+  img: isuru.png
+  thumbnail: isuru.png
+- id: wil-thomason
+  role: spotlight
+  year: 2024
+  name: Wil Thomason
+  subtitle: Postdoctoral Fellow
+  website: https://wbthomason.com/
+  affiliation: Rice
+  img: wil.jpg
+  thumbnail: wil.jpg
+- id: dileep-kalathil
+  role: spotlight
+  year: 2024
+  name: Dileep Kalathil
+  subtitle: Assistant Professor
+  affiliation: TAMU
+  website: http://people.tamu.edu/~dileep.kalathil/
+  img: kalathil.png
+  thumbnail: kalathil.png
+- id: logan-farrell
+  role: spotlight
+  year: 2024
+  name: Logan Farrell
+  subtitle: Co-Founder and CTO
+  website: https://rugged-robotics.com/about/
+  affiliation: Rugged Robotics
+  img: Logan_Farrell.jfif
+  thumbnail: Logan_Farrell.jfif
+- id: rob-ambrose
+  role: organizer
+  year: 2024
+  name: Robert Ambrose
+  img: ambrose.png
+  email: rambrose [at] tamu.edu
+  website: https://engineering.tamu.edu/mechanical/profiles/ambrose-robert.html
+- id: gray-thomas
+  role: organizer
+  year: 2024
+  name: Gray Thomas
+  img: gray.png
+  email: gthomas [at] tamu.edu
+  website: https://engineering.tamu.edu/mechanical/profiles/thomas-gray.html
+- id: kiju-lee
+  role: organizer
+  year: 2024
+  name: Kiju Lee
+  img: kiju.png
+  email: kiju.lee [at] tamu.edu
+  website: https://engineering.tamu.edu/etid/profiles/lee-kiju.html
+- id: aniruddha-datta
+  role: organizer
+  year: 2024
+  name: Aniruddha Datta
+  img: datta.png
+  email: a-datta [at] tamu.edu
+  website: https://engineering.tamu.edu/electrical/profiles/adatta.html
+- id: yuke-zhu
+  role: organizer
+  year: 2024
+  name: Yuke Zhu
+  img: yuke.png
+  email: yukez [at] cs.utexas.edu
+  website: https://yukezhu.me/
+- id: vaibhav-unhelkar
+  role: organizer
+  year: 2024
+  name: Vaibhav Unhelkar
+  img: unhelkar.png
+  email: unhelkar [at] rice.edu
+  website: https://unhelkar.github.io/
+- id: loretta-mendez
+  role: organizer
+  year: 2024
+  name: Loretta Mendez
+  img: loretta.png
+  email: https://directory.tamu.edu/people/f54db1d12eee7db7a06c040f2a21fd53/?branch=people&cn=Loretta+Mendez
+  website: lmendez@tamu.edu
+- id: sheila-dotson
+  role: organizer
+  year: 2024
+  name: Sheila Dotson
+  img: sheila.jpeg
+  email: dotson [at] tamu.edu
+  
+################################################################################
+# 2025                                                                         #
+################################################################################
+- id: alex-sowell
+  year: 2025
+  name: Alex Sowell
+  subtitle: Avionics Engineer
+  affiliation: NASA Johnson Space Center
+  img: 2025-headshot-sowell-alex.jpeg
+  website: null
+  email: null
+  role: spotlight
+  bio: ''
+- id: arthur-zhang
+  year: 2025
+  name: Arthur Zhang
+  subtitle: PhD Student
+  affiliation: UT-Austin
+  img: null
+  website: null
+  email: null
+  role: spotlight
+  bio: ''
+- id: cody-gonzalez
+  year: 2025
+  name: Cody Gonzalez
+  subtitle: Assistant Professor
+  affiliation: UTSA
+  img: 2025-headshot-gonzalez-cody.jpeg
+  website: null
+  email: null
+  role: spotlight
+  bio: ''
+- id: eddie-hilburn
+  year: 2025
+  name: Eddie Hilburn
+  subtitle: PhD Student
+  affiliation: Texas A&M University
+  img: 2025-headshot-hilburn-eddie.jpeg
+  website: null
+  email: null
+  role: spotlight
+  bio: ''
+- id: joydeep-biswas
+  year: 2025
+  name: Joydeep Biswas
+  subtitle: null
+  affiliation: UT-Austin
+  img: 2025-headshot-biswas-joydeep.jpeg
+  website: null
+  email: null
+  role: keynote
+  bio: ''
+- id: lillian-chin
+  year: 2025
+  name: Lillian Chin
+  subtitle: Assistant Professor
+  affiliation: UT-Austin
+  img: 2025-headshot-chin-lillian.jpeg
+  website: https://lillych.in
+  email: null
+  role: spotlight
+  bio: ''
+- id: manoranjan-majji
+  year: 2025
+  name: Manoranjan Majji
+  subtitle: Professor
+  affiliation: Texas A&M University
+  img: 2025-headshot-majji-manoranjan.jpeg
+  website: https://engineering.tamu.edu/aerospace/profiles/majji-manoranjan.html
+  email: null
+  role: spotlight
+  bio: ''
+- id: meera-towler
+  year: 2025
+  name: Meera Towler
+  subtitle: Program Manager
+  affiliation: SwRI
+  img: towler_meera.jpg
+  website: https://spacerobotics.swri.org
+  email: meera.towler [at] swri.org
+  role: organizer
+  bio: ''
+- id: paul-evans
+  year: 2025
+  name: Paul Evans
+  subtitle: Executive Director
+  affiliation: SwRI
+  img: evans_paul.jpg
+  website: https://intelligentsystems.swri.org
+  email: paul.evans [at] swri.org
+  role: organizer
+  bio: ''
+- id: rob-ambrose
+  year: 2025
+  name: Rob Ambrose
+  subtitle: Professor
+  affiliation: Texas A&M University
+  img: 2025-headshot-ambrose-rob.jpeg
+  website: https://engineering.tamu.edu/mechanical/profiles/ambrose-robert.html
+  email: null
+  role: keynote
+  bio: ''
+- id: shane-king
+  year: 2025
+  name: Shane King
+  subtitle: Postdoctoral Fellow
+  affiliation: Rice University
+  img: 2025-headshot-king-shane.jpeg
+  website: https://profiles.rice.edu/faculty/shane-king
+  email: null
+  role: spotlight
+  bio: ''
+- id: shaun-edwards
+  year: 2025
+  name: Shaun Edwards
+  subtitle: CTO & Co-Founder
+  affiliation: Plus One Robotics
+  img: 2025-headshot-edwards-shaun.jpeg
+  website: null
+  email: null
+  role: keynote
+  bio: ''
+- id: thai-duong
+  year: 2025
+  name: Thai Duong
+  subtitle: Postdoctoral Research Associate
+  affiliation: Rice University
+  img: 2025-headshot-duong-thai.jpeg
+  website: https://thaipduong.github.io/
+  email: null
+  role: spotlight
+  bio: ''
+- id: vaibhav-unhelkar
+  year: 2025
+  name: Vaibhav Unhelkar
+  subtitle: Assistant Professor
+  affiliation: Rice University
+  img: 2025-headshot-unhelkar-vaibhav.jpeg
+  website: https://profiles.rice.edu/faculty/vaibhav-unhelkar
+  email: null
+  role: keynote
+  bio: ''
+- id: vinayak-krishnamurthy
+  year: 2025
+  name: Vinayak Krishnamurthy
+  subtitle: Associate Professor
+  affiliation: Texas A&M University
+  img: 2025-headshot-krishnamurthy-vinayak.jpeg
+  website: https://engineering.tamu.edu/mechanical/profiles/vinayak.html
+  email: null
+  role: spotlight
+  bio: ''
+- id: weihang-guo
+  year: 2025
+  name: Weihang Guo
+  subtitle: PhD Student
+  affiliation: Rice University
+  img: 2025-headshot-guo-weihang.jpeg
+  website: https://www.whguo.me/
+  email: null
+  role: spotlight
+  bio: ''
+- id: yildirim-hurmuzlu
+  year: 2025
+  name: Yildirim Hurmuzlu
+  subtitle: University Distinguished Professor
+  affiliation: SMU
+  img: 2025-headshot-hurmuzlu-yildirim.jpeg
+  website: null
+  email: null
+  role: spotlight
+  bio: ''
+- id: steve-dellenback
+  year: 2025
+  name: Steve Dellenback
+  subtitle: Vice President—R&D
+  affiliation: SwRI
+  img: null
+  website: null
+  email: null
+  role: null
+  bio: ''
+- id: christy-cardenas
+  year: 2025
+  name: Christy Cardenas
+  affiliation: IRIS
+- id: kamel-saidi
+  year: 2025
+  name: Kamel Saidi
+  affiliation: NIST

@@ -13,3 +13,39 @@ color:
 font:
   primary: '"Open Sans", Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+
+2023:
+  date: "April 14th, 2023"
+  host: Rice University
+  location: Houston, Texas
+  logo: teros_logo_2023.png
+  registration_url: "https://teros2023.eventbrite.com"
+  contact: >
+    You can reach us via email at <a href="mailto:teros2023@rice.edu">teros2023@rice.edu</a>
+2024:
+  date: "April 30th, 2024"
+  host: "Texas A&M University"
+  location: "College Station, Texas"
+  logo: teros_logo_2024.png
+  registration_url: null
+  contact: >
+    You can reach us via email at <a href="mailto:teros2024@tamu.edu">teros2024@tamu.edu</a>
+2025:
+  date: "April 18th, 2025"
+  host: Southwest Research Institute
+  location: "San Antonio, Texas"
+  logo: teros_logo_2025.png
+  registration_url: "https://www2.swri.org/www2/teros/registration.htm"
+  registration_limit: 90
+  save_the_date: "save_the_date_2025.png"
+  contact: >
+    For more information, contact
+    <a href="https://www.swri.org/user/226/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo=">
+      Paul Evans
+    </a>
+    (+1 210 522 2994) or
+    <a href="https://www.swri.org/user/4761/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo=">
+      Meera Towler
+    </a>
+    (+1 210 522 6339).
+    

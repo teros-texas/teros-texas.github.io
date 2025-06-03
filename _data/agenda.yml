@@ -1,0 +1,276 @@
+2023:
+  - time: "08:00"
+    type: logistics
+    title: Registration Desk opens
+    location:
+  - time: "08:45"
+    type: logistics
+    title: Introduction
+    location: Auditorium
+  - time: "09:00"
+    type: keynote
+    speaker: moshe-vardi
+    title: "The Siren Song of Temporal Synthesis"
+    location: Auditorium
+  - time: "09:30"
+    type: keynote
+    speaker: luis-sentis
+    title: "Embodiment of Complex General Purpose Robots"
+    location: Auditorium
+  - time: "10:00"
+    type: break
+    title: Posters / Industry Booths / Coffee
+    location: Event space
+  - time: "11:00"
+    type: spotlight
+    title: Spotlight Speakers 1
+    speakers:
+      - id: shaun-azimi
+        title: "Remote Robotic Operations Supporting Human Space Exploration"
+      - id: roberto-martin-martin
+        title: "Mobile Manipulation-Integration vs. Factorization"
+      - id: kiju-lee
+        title: "Swarm Robotics and its Potential for Complex Problems"
+      - id: anoop-rajappan
+        title: "Textile-Enabled Technologies for Wearable Robots"
+    location: Auditorium
+  - time: "12:00"
+    type: break
+    title: Lunch
+    location: Event space
+  - time: "13:30"
+    type: keynote
+    speaker: ann-fey
+    title: "Hardware and Algorithmic Tools to Enhance  Surgical Training"
+    location: Auditorium
+  - time: "14:00"
+    type: spotlight
+    title: "Spotlight Speakers 2"
+    speakers:
+      - id: stuart-corr
+      - id: ashish-deshpande
+        title: "Harmony Exoskeleton: from Robotics Lab to Stroke Patients"
+  - time: "14:30"
+    type: break
+    title: Posters / Industry Booths / Coffee
+    location: Event space
+  - time: "15:00"
+    type: keynote
+    speaker: dezhen-song
+    title: "Co-Modality Active sensing and Perception (C-MAP)"
+    location: Auditorium
+  - time: "15:30"
+    type: spotlight
+    title: "Spotlight Speakers 3"
+    speakers:
+      - id: nicholas-gans
+        title: "Adding Safety to Learning by Demonstration"
+      - id: yu-xiang
+        title: "Object-Centric Perception for Robot Manipulation"
+  - time: "16:00"
+    type: logistics
+    title: Closing Remarks and Transition to Tours
+    location: Auditorium
+  - time: "16:00"
+    type: break
+    title: Networking / Coffee / Tours
+    location: Event space
+2024:
+  - time: "08:00"
+    type: logistics
+    title: Registration Desk opens
+    location: Hallway
+  - time: "08:45"
+    type: logistics
+    title: Welcome
+    speaker:
+      id: rob-ambrose
+    location: Chevron Rooms
+  - time: "09:00"
+    type: keynote
+    title: Transitioning Foundational & Applied Research to National and Industrial Partners
+    speaker: mitch-pryor
+    location: Chevron Rooms
+  - time: "09:30"
+    type: keynote
+    title: "Beyond rockets and rovers: how mobile dexterous robots can revolutionize space exploration" 
+    speaker: shaun-azimi
+    location: Chevron Rooms
+  - time: "10:00"
+    type: break
+    title: Posters / Industry Booths / Coffee
+    location: Hallway / Outdoor Area
+  - time: "11:00"
+    type: spotlight
+    title: Spotlight Speakers 1
+    speakers:
+      - id: elyse-chase
+        title: "Referred Haptics in Virtual Environments and Multisensory Integration"
+      - id: gray-thomas
+        title: "Operator-Induced Instability and Human Strength Amplification"
+      - id: meera-towler
+        title: "Key Technology for Enabling the Future of Automation in Space"
+      - id: james-holley
+        title: "Novium: Value Centered Engineering"
+    location: Chevron Rooms
+  - time: "12:00"
+    type: break
+    title: Lunch / Networking
+    location: Chevron Rooms / Hallway / Outdoor Area
+  - time: "13:30"
+    type: keynote
+    title: Robust Robot Manipulation with Less Wishful Assumptions 
+    speaker: kaiyu-hang
+    location: Chevron Rooms
+  - time: "14:00"
+    type: keynote
+    title: Brain-Robot Interaction 
+    speaker: jose-millan
+    location: Chevron Rooms
+  - time: "14:30"
+    type: break
+    title: Posters / Industry Booths / Coffee
+    location: Hallway / Outdoor Area
+  - time: "15:00"
+    type: spotlight
+    title: Spotlight Speakers 2
+    speakers:
+      - id: isuru-godage
+        title: "Trends in Mobile Robotics"
+      - id: wil-thomason
+        title: "High-Performance Motion Planning for Manipulators with Ubiquitous Hardware Acceleration"
+      - id: dileep-kalathil
+        title: "Robust Reinforcement Learning for Dynamical Systems"
+      - id: logan-farrell
+        title: "Rugged Robotics: Automation in the Construction Industry"
+    location: Chevron Rooms
+  - time: "16:00"
+    type: logistics
+    title: Organizers' Closing Remarks and TEROS 2025
+    location: Chevron Rooms
+  - time: "16:15"
+    type: break
+    title: Networking / Coffee
+    location: Chevron Rooms / Hallway / Outdoor Area 
+2025:
+  - time: "08:00"
+    type: logistics
+    title: Registration Desk Open and Posters
+    description: null
+    speakers: null
+    location: SwRI Building 263
+  - time: "09:00"
+    type: logistics
+    title: Welcome to Southwest Research Institute® (SwRI®)
+    description: null
+    speakers:
+    - id: steve-dellenback
+      title: "Welcome to Southwest Research Institute® (SwRI®)"
+    location: SwRI Building 263
+  - time: "09:05"
+    type: logistics
+    title: Introduction of TEROS 2025
+    description: null
+    speakers:
+    - id: meera-towler
+    - id: paul-evans
+    location: SwRI Building 263
+  - time: "09:15"
+    type: keynote
+    title: The Texas A&M University Space Institute and novel mobile robotic systems
+    description: null
+    speaker: rob-ambrose
+    location: SwRI Building 263
+  - time: "09:45"
+    type: keynote
+    description: null
+    speaker: kamel-saidi
+    location: SwRI Building 263
+  - time: "10:00"
+    type: panel
+    title: 'Panel: Research Opportunities in Robotics'
+    description: null
+    speakers:
+    - id: christy-cardenas
+    - id: kamel-saidi
+    - id: alex-sowell
+    location: SwRI Building 263
+  - time: "10:30"
+    type: break
+    title: Break for Networking and Posters
+    description: null
+    speakers: null
+    location: SwRI Building 263
+  - time: "11:00"
+    type: keynote
+    title: 'Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks'
+    description: null
+    speaker: joydeep-biswas
+    location: SwRI Building 263
+  - time: "11:30"
+    type: spotlight
+    title: "Spotlight Speakers 1"
+    description: null
+    speakers:
+    - id: lillian-chin
+      title: "Material Matters:  Designing Robot Bodies in Dialogue with Computation"
+    - id: thai-duong
+      title: "Preserving Structures in Dynamics Learning and Control for Autonomous Robot Navigation"
+    - id: cody-gonzalez
+      title: "Multifunctional Lithium-ion Batteries, a Path to Self-Powered Robotics"
+    - id: shane-king
+      title: "Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices"
+    - id: vinayak-krishnamurthy
+      title: "Part, Path, Plan: Partitive Geometry for Multi-Robot Cooperative Additive Manufacturing"
+    location: SwRI Building 263
+  - time: "12:30"
+    type: break
+    title: Break for Box Lunches
+    description: null
+    speakers: null
+    location: SwRI Building 263
+  - time: "13:30"
+    type: keynote
+    description: null
+    speaker: shaun-edwards
+    location: SwRI Building 263
+  - time: "14:00"
+    type: keynote
+    title: Interactive AI Techniques for Training Human-Robot Teams
+    description: null
+    speaker: vaibhav-unhelkar
+    location: SwRI Building 263
+  - time: "14:30"
+    type: break
+    title: Break for Networking and Posters
+    description: null
+    speakers: null
+    location: SwRI Building 263
+  - time: "15:15"
+    type: spotlight
+    title: 'Spotlight Speakers 2'
+    description: null
+    speakers:
+    - id: manoranjan-majji
+      title: "Autonomous Space Robotic Systems: Challenges and Opportunities"
+    - id: yildirim-hurmuzlu
+      title: "Magnetically actuated millimeter-scale biped"
+    - id: weihang-guo
+      title: "CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning"
+    - id: arthur-zhang
+      title: "CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance"
+    - id: eddie-hilburn
+      title: "Robotic Space Simulator: An Actively Controlled Dual-Spacecraft Microgravity Dynamics Simulator"
+    location: SwRI Building 263
+  - time: "16:00"
+    type: logistics
+    title: Closing Remarks
+    description: null
+    speakers: null
+    location: SwRI Building 263
+  - time: "16:00"
+    type: break
+    title: Networking, Posters, and Lab Tours
+    description: null
+    speakers: null
+    location: SwRI Building 263

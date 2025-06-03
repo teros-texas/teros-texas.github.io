@@ -1,0 +1,27 @@
+<!-- About Section -->
+<section id="Past">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Other Editions of TEROS</h2>
+      </div>
+    </div>
+    
+    {%- comment -%}
+      Capture all agenda‐year keys into a temp array, then sort that array descending.
+    {%- endcomment -%}
+    {%- assign year_list = "" | split: "" -%}
+    {%- for pair in site.data.agenda %}
+      {%- assign year_list = year_list | push: pair[0] -%}
+    {%- endfor %}
+    {%- assign sorted_years = year_list | sort | reverse -%}
+
+    <div class="row container">
+    {% for year in sorted_years %}
+      {% if year != page.year %}
+        <h3><a href="/{{ year }}/" target="_blank" rel="noopener noreferrer">TEROS {{ year }}</a></h3>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</section>

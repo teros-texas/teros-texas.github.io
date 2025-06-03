@@ -1,0 +1,29 @@
+<section id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">About</h2>
+      </div>
+    </div>
+    <div class="row container">
+      <div class="col-lg-6">
+        <p>The Texas Regional Robotics Symposium (TEROS) aims to bring together Texas robotics researchers. TEROS is a one-day event with research talks, poster presentations, and social activities. The goal of TEROS is to share exciting ideas and build new connections in the robotics research community in Texas.</p>
+        
+        <h3>Registration</h3>
+        
+        {% assign registration_limit = site.data.template[page.year].registration_limit %}
+        <p>Attendance is free to Texas robotics researchers.{% if registration_limit %} Attendance will be limited to the first {{ registration_limit }} registrants.{% endif %}</p>
+        
+        <p><a href="{{ site.data.template[page.year].registration_url }}" target="_blank"><b>Click here to register!</b></a></p>
+      </div>
+      
+      {% assign save_the_date = site.data.template[page.year].save_the_date %}
+      {% if save_the_date %}
+      <div class="col-lg-6">
+        <img src="/assets/img/{{ save_the_date }}" class="img-responsive img-centered" style="padding-top: 1%; width:100%; height:auto;  justify-content: center;" alt="Save the date image">
+      </div>
+      {% endif %}
+
+    </div>
+  </div>
+</section>
