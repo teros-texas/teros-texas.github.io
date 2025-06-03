@@ -158,7 +158,7 @@
   img: null
   website: null
   email: null
-  role: organizer
+  role: null
   bio: ''
 - id: christy-cardenas
   name: Christy Cardenas
