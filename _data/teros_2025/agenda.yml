@@ -1,131 +1,133 @@
 - time: "08:00"
-  info: |-
-    Registration Desk Open and Posters
-  locations: "SwRI Building 263"
-  color: &logistics "background-color:#b894db"
-
+  type: logistics
+  title: Registration Desk Open and Posters
+  description: null
+  speakers: null
+  location: SwRI Building 263
 - time: "09:00"
-  info: |-
-    Welcome to Southwest Research Institute® (SwRI®)  
-    <strong>Steve Dellenback</strong>, Vice President—R&D
-  locations: "SwRI Building 263"
-  color: *logistics
-
+  type: logistics
+  title: Welcome to Southwest Research Institute® (SwRI®)
+  description: null
+  speakers:
+  - id: steve-dellenback
+    title: "Welcome to Southwest Research Institute® (SwRI®)"
+  location: SwRI Building 263
 - time: "09:05"
-  info: |-
-    Introduction of TEROS 2025  
-    <strong>Meera Towler</strong> and <strong>Paul Evans</strong>, SwRI
-  locations: "SwRI Building 263"
-  color: *logistics
-  
+  type: logistics
+  title: Introduction of TEROS 2025
+  description: null
+  speakers:
+  - id: meera-towler
+  - id: paul-evans
+  location: SwRI Building 263
 - time: "09:15"
-  info: |-
-    Keynote: <strong>Rob Ambrose</strong>, Texas A&M University
-    <em>The Texas A&M University Space Institute and novel mobile robotic systems</em>
-  locations: "SwRI Building 263"
-  color: &keynote "background-color:#db9494"
-
-
-
+  type: keynote
+  title: The Texas A&M University Space Institute and novel mobile robotic systems
+  description: null
+  speaker:
+    id: rob-ambrose
+    title: "The Texas A&M University Space Institute and novel mobile robotic systems"
+  location: SwRI Building 263
 - time: "09:45"
-  info: |-
-    Keynote: <strong>Kamel Saidi</strong>, NIST
-  locations: "SwRI Building 263"
-  color: *keynote
-  
+  type: keynote
+  title: 'Keynote: Kamel Saidi, NIST'
+  description: null
+  speaker:
+    id: kamel-saidi
+    title: null
+  location: SwRI Building 263
 - time: "10:00"
-  info: |-
-    Panel: Research Opportunities in Robotics
-    <ul>
-      <li><strong>Christy Cardenas</strong>, Iris
-      <li><strong>Kamel Saidi</strong>, NIST
-      <li><strong>Alex Sowell</strong>, NASA JSC
-    </ul>
-  locations: "SwRI Building 263"
-
+  type: panel
+  title: 'Panel: Research Opportunities in Robotics'
+  description: null
+  speakers:
+  - id: christy-cardenas
+  - id: kamel-saidi
+  - id: alex-sowell
+  location: SwRI Building 263
 - time: "10:30"
-  info: |-
-    Break for Networking and Posters
-  locations: "SwRI Building 263"
-  color: &networking "background-color:#b8db94"
-  
+  type: break
+  title: Break for Networking and Posters
+  description: null
+  speakers: null
+  location: SwRI Building 263
 - time: "11:00"
-  info: |-
-    Keynote: <strong>Joydeep Biswas</strong>, University of Texas at Austin
-    <em>Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks</em>
-  locations: "SwRI Building 263"
-  color: *keynote
-
+  type: keynote
+  title: 'Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks'
+  description: null
+  speakers:
+  - id: joydeep-biswas
+    title: "Robots Without Boundaries: Embracing the Unseen and Tackling Novel Tasks"
+  location: SwRI Building 263
 - time: "11:30"
-  info: |-
-    Spotlight Talks: Round 1
-    <ul>
-      <li><strong>Lillian Chin</strong>, UT-Austin
-          <em>Material Matters:  Designing Robot Bodies in Dialogue with Computation</em>
-      <li><strong>Thai Duong</strong>, Rice University
-          <em>Preserving Structures in Dynamics Learning and Control for Autonomous Robot Navigation</em>
-      <li><strong>Cody Gonzales</strong>, UTSA
-          <em>Multifunctional Lithium-ion Batteries, a Path to Self-Powered Robotics</em>
-      <li><strong>Shane King</strong>, Rice University
-          <em>Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices</em>
-      <li><strong>Vinayak Krishnamurthy</strong>, Texas A&M University
-          <em>Part, Path, Plan: Partitive Geometry for Multi-Robot Cooperative Additive Manufacturing</em>
-    </ul>
-  locations: "SwRI Building 263"
-  color: &spotlight "background-color:#94dbdb"
-
+  type: spotlight
+  title: "Spotlight Speakers 1"
+  description: null
+  speakers:
+  - id: lillian-chin
+    title: "Material Matters:  Designing Robot Bodies in Dialogue with Computation"
+  - id: thai-duong
+    title: "Preserving Structures in Dynamics Learning and Control for Autonomous Robot Navigation"
+  - id: cody-gonzalez
+    title: "Multifunctional Lithium-ion Batteries, a Path to Self-Powered Robotics"
+  - id: shane-king
+    title: "Assistive devices for motor and sensory restoration: Addressing the need for bidirectional information flow between users and their devices"
+  - id: vinayak-krishnamurthy
+    title: "Part, Path, Plan: Partitive Geometry for Multi-Robot Cooperative Additive Manufacturing"
+  location: SwRI Building 263
 - time: "12:30"
-  info: |-
-    Break for Box Lunches
-  locations: "SwRI Building 263"
-  color: *logistics
-
+  type: break
+  title: Break for Box Lunches
+  description: null
+  speakers: null
+  location: SwRI Building 263
 - time: "13:30"
-  info: |-
-    Keynote: <strong>Shaun Edwards</strong>, Plus One Robotics
-  locations: "SwRI Building 263"
-  color: *keynote
-
+  type: keynote
+  title: 'Keynote: Shaun Edwards, Plus One Robotics'
+  description: null
+  speaker:
+    id: shaun-edwards
+    title: null
+  location: SwRI Building 263
 - time: "14:00"
-  info: |-
-    Keynote: <strong>Vaibhav Unhelkar</strong>, Rice University
-    <em>Interactive AI Techniques for Training Human-Robot Teams</em>
-  locations: "SwRI Building 263"
-  color: *keynote
-  
+  type: keynote
+  title: Interactive AI Techniques for Training Human-Robot Teams
+  description: null
+  speaker:
+    id: vaibhav-unhelkar
+    title: null
+  location: SwRI Building 263
 - time: "14:30"
-  info: |-
-    Break for Networking and Posters
-  locations: "SwRI Building 263"
-  color: *networking
-
+  type: break
+  title: Break for Networking and Posters
+  description: null
+  speakers: null
+  location: SwRI Building 263
 - time: "15:15"
-  info: |-
-    Spotlight Talks: Round 2
-    <ul>
-      <li><strong>Manoranjan Majji</strong>, Texas A&M University
-          <em>Autonomous Space Robotic Systems: Challenges and Opportunities</em>
-      <li><strong>Yildirim Hurmuzlu</strong>, SMU
-          <em>Magnetically actuated millimeter-scale biped</em>
-      <li><strong>Weihang Guo</strong>, Rice University
-          <em>CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning</em>
-      <li><strong>Arthur Zhang</strong>, UT-Austin
-          <em>CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance</em>
-      <li><strong> Maj. Eddie Hilburn</strong>, Texas A&M University
-          <em>Robotic Space Simulator: An Actively Controlled Dual-Spacecraft Microgravity Dynamics Simulator</em>
-    </ul>
-  locations: "SwRI Building 263"
-  color: *spotlight
-
+  type: spotlight
+  title: 'Spotlight Speakers 2'
+  description: null
+  speakers:
+  - id: manoranjan-majji
+    title: "Autonomous Space Robotic Systems: Challenges and Opportunities"
+  - id: yildirim-hurmuzlu
+    title: "Magnetically actuated millimeter-scale biped"
+  - id: weihang-guo
+    title: "CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning"
+  - id: arthur-zhang
+    title: "CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance"
+  - id: eddie-hilburn
+    title: "Robotic Space Simulator: An Actively Controlled Dual-Spacecraft Microgravity Dynamics Simulator"
+  location: SwRI Building 263
 - time: "16:00"
-  info: |-
-    Closing Remarks
-    Transition to Networking and Robotics Lab Tours
-  locations: "SwRI Building 263"
-  color: *logistics
-
+  type: logistics
+  title: Closing Remarks
+  description: null
+  speakers: null
+  location: SwRI Building 263
 - time: "16:00"
-  info: |-
-    Networking, Posters, and Lab Tours
-  locations: "SwRI Building 263"
-  color: *networking
+  type: break
+  title: Networking, Posters, and Lab Tours
+  description: null
+  speakers: null
+  location: SwRI Building 263
