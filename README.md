@@ -24,6 +24,6 @@ To update the home page contents, please see `_layouts/teros_2023_home.html`.
 To update the navigation bar, please see `_include/teros_2023_data/header-home.html`
 
 
+## Spring 2026: Coming to Arlington!
 
-
-
+The Univeristy of Texas at Arlington
