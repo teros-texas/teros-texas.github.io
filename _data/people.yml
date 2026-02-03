@@ -581,3 +581,23 @@
   email: null
   role: keynote
   bio: ''
+  - id: bill-beksi
+  year: 2026
+  name: Bill Beksi
+  subtitle: Associate Professor
+  affiliation: University of Texas at Arlington
+  img: null
+  website: https://ranger.uta.edu/~wjbeksi/
+  email: null
+  role: keynote
+  bio: ''
+  - id: yu-xiang
+  year: 2026
+  name: Yu Xiang
+  subtitle: Assistant Professor
+  affiliation: University of Texas at Dallas
+  img: null
+  website: https://yuxng.github.io/
+  email: null
+  role: keynote
+  bio: ''
