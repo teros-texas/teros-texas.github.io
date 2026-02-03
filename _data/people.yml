@@ -601,3 +601,74 @@
   email: null
   role: keynote
   bio: ''
+#################
+- id: amir-jafari
+  year: 2026
+  name: Amir Jafari
+  subtitle: Associate Professor
+  affiliation: University of North Texas
+  img: amir-jafari.png
+  website:  https://engineering.unt.edu/bme/research/labs/arm/
+  email: null
+  role: spotlight
+  bio: ''
+- id: Binghan-He
+  year: 2026
+  name: Binghan He
+  subtitle: Assistant Professor
+  affiliation: University of Texas at San Santonio
+  img: binghan-he.jpg
+  website:  https://www.isabe-lab.com/home
+  email: null
+  role: spotlight
+  bio: ''
+- id: Cyrus-Rahimzadeh
+  year: 2026
+  name: Cyrus Rahimzadeh
+  subtitle: Manager, Automation Engineering
+  affiliation:  Texas Manufacturing Assistance Center
+  img: Cyrus-Rahimzadeh.jfif
+  website:  null
+  email: null
+  role: spotlight
+  bio: ''
+- id:Fangzhou-Xia
+  year: 2026
+  name: Fangzhou Xia
+  subtitle: Assistant Professor
+  affiliation:  University of Texas at Austin
+  img: Fangzhou_Xia.png
+  website:  https://minimax-lab.com/
+  email: null
+  role: spotlight
+  bio: ''
+- id:Jeeseop-Kim
+  year: 2026
+  name: Jeeseop Kim
+  subtitle: Assistant Professor
+  affiliation:  University of Texas at  El Paso
+  img: Jeeseop-Kim.jpg
+  website:  https://jeeseop.com/
+  email: null
+  role: spotlight
+  bio: ''
+- id:Michail-Theofinidis
+  year: 2026
+  name: Michail Theofinidis
+  subtitle: Research Scientist II
+  affiliation:  University of Texas at Arlington
+  img: Michail-Theofinidis.jpg
+  website:  null
+  email: null
+  role: spotlight
+  bio: ''
+- id:Yiwei-Lyu
+  year: 2026
+  name: Yiwei Lyu
+  subtitle: Research Scientist II
+  affiliation: Texas A&M University
+  img: yiweilyu.png
+  website:  https://www.andrew.cmu.edu/user/yiweilyu/
+  email: null
+  role: spotlight
+  bio: ''
