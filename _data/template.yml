@@ -54,5 +54,14 @@ font:
   location: "Arlington, Texas"
   logo: teros_logo_2026.png
   registration_url: null
+  save_the_date: "save_the_date_2026.png"
   contact: >
-    More information coming soon!
+    For more information, contact
+ <%   <a href="https://www.swri.org/user/226/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo="> %>
+      Nick Gans - ngans@uta.edu
+  <%  </a>
+    (+1 210 522 2994) or
+    <a href="https://www.swri.org/user/4761/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo=">
+      Meera Towler
+    </a>
+    (+1 210 522 6339) %>.
