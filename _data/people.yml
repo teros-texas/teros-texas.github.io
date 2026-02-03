@@ -567,3 +567,17 @@
   year: 2025
   name: Kamel Saidi
   affiliation: NIST
+
+  ################################################################################
+# 2026                                                                         #
+################################################################################
+- id: aaron-becker
+  year: 2026
+  name: Aaron Becker
+  subtitle: Professor
+  affiliation: University of Houston
+  img: null
+  website: https://www.ee.uh.edu/faculty/becker-aaron
+  email: null
+  role: spotlight
+  bio: ''
