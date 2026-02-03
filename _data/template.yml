@@ -57,11 +57,11 @@ font:
   save_the_date: "save_the_date_2026.png"
   contact: >
     For more information, contact
- <%   <a href="https://www.swri.org/user/226/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo="> %>
+ {%   <a href="https://www.swri.org/user/226/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo="> %}
       Nick Gans - ngans@uta.edu
-  <%  </a>
+  {%  </a>
     (+1 210 522 2994) or
     <a href="https://www.swri.org/user/4761/contact?path=/events/texas-regional-robotics-symposium&page=ClRleGFzIFJlZ2lvbmFsIFJvYm90aWNzIFN5bXBvc2l1bQo=">
       Meera Towler
     </a>
-    (+1 210 522 6339) %>.
+    (+1 210 522 6339) %}.
