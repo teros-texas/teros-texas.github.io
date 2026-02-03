@@ -94,11 +94,15 @@ h4 {
     font-size: 120%;
 }
 
+
 .img-centered {
-    margin: 0 auto;
-    height: 250px;
-    width: auto;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;        /* preserve aspect ratio */
+  max-height: 250px;   /* cap the height without stretching */
 }
+
 
 aside.clients {
     padding-top: 150px;
