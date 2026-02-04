@@ -60,13 +60,13 @@
       <!-- ───────────────────────────────────────────────────────────────── -->
       <!-- Spotlight Speakers                                                -->
       <!-- ───────────────────────────────────────────────────────────────── -->
-      <h2 class="section-heading">Spotlight Speakers</h3>
+      <h2 class="section-heading">Spotlight Speakers</h2>
       <p>Speakers will be posted as they are confirmed.</p>
 
       {%- assign spotlights = site.data.people
           | where: "role", "spotlight"
           | where: "year", page.year -%}
-      <div class="row container">
+      <div class="container">
         <div class="row">
           <div class="col-lg-12 text-left">
             {%- for speaker in spotlights -%}
