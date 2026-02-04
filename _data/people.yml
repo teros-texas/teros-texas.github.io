@@ -622,16 +622,6 @@
   email: null
   role: spotlight
   bio: ''
-- id: Cyrus-Rahimzadeh
-  year: 2026
-  name: Cyrus Rahimzadeh
-  subtitle: Manager, Automation Engineering
-  affiliation:  Texas Manufacturing Assistance Center
-  img: Cyrus-Rahimzadeh.jfif
-  website:  null
-  email: null
-  role: spotlight
-  bio: ''
 - id: fangzhou-xia
   year: 2026
   name: Fangzhou Xia
@@ -669,6 +659,16 @@
   affiliation: Texas A&M University
   img: yiweilyu.png
   website:  https://www.andrew.cmu.edu/user/yiweilyu/
+  email: null
+  role: spotlight
+  bio: ''
+- id: Cyrus-Rahimzadeh
+  year: 2026
+  name: Cyrus Rahimzadeh
+  subtitle: Manager, Automation Engineering
+  affiliation:  Texas Manufacturing Assistance Center
+  img: Cyrus-Rahimzadeh.jfif
+  website:  null
   email: null
   role: spotlight
   bio: ''
