@@ -20,8 +20,13 @@
       {% assign save_the_date = site.data.template[page.year].save_the_date %}
       {% if save_the_date %}
       <div class="col-lg-6">
-        <img src="/assets/img/{{ save_the_date }}" class="img-responsive img-centered" style="padding-top: 1%; width:100%; height:auto;  justify-content: center;" alt="Save the date image">
-      </div>
+        <img
+          src="/assets/img/{{ save_the_date }}"
+          class="img-responsive img-centered save-the-date"
+          alt="Save the date image"
+          loading="lazy"
+        />
+     </div>
       {% endif %}
 
     </div>
