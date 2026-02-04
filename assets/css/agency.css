@@ -95,6 +95,15 @@ h4 {
 }
 
 
+.img-save-the-date {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;        /* no distortion */
+  max-height: 350px;   /* cap height without stretching */
+}
+
+
 .img-centered {
   display: block;
   margin: 0 auto;
