@@ -642,7 +642,7 @@
   email: null
   role: spotlight
   bio: ''
-- id:Jeeseop-Kim
+- id: Jeeseop-Kim
   year: 2026
   name: Jeeseop Kim
   subtitle: Assistant Professor
@@ -652,7 +652,7 @@
   email: null
   role: spotlight
   bio: ''
-- id:Michail-Theofinidis
+- id: Michail-Theofinidis
   year: 2026
   name: Michail Theofinidis
   subtitle: Research Scientist II
@@ -662,7 +662,7 @@
   email: null
   role: spotlight
   bio: ''
-- id:Yiwei-Lyu
+- id: Yiwei-Lyu
   year: 2026
   name: Yiwei Lyu
   subtitle: Research Scientist II
