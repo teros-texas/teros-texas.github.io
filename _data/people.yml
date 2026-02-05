@@ -571,6 +571,16 @@
   ################################################################################
 # 2026                                                                         #
 ################################################################################
+- id: jose-baca
+  year: 2026
+  name: Jose Baca
+  subtitle: Assistant Professor
+  affiliation: Texas A&M University - Corpus Christi
+  img: josebaca.jpg
+  website: https://sites.google.com/site/bacajose/
+  email: null
+  role: keynote
+  bio: ''
 - id: aaron-becker
   year: 2026
   name: Aaron Becker
