@@ -672,6 +672,16 @@
   email: null
   role: spotlight
   bio: ''
+- id: AykutSatici
+  year: 2026
+  name: Aykut Satici
+  subtitle: Assistant Professor
+  affiliation:  University of Texas at Dallas
+  img: aykut_headshot.jpg
+  website:  https://symplectomorphism.github.io/
+  email: null
+  role: spotlight
+  bio: ''  
 - id: Cyrus-Rahimzadeh
   year: 2026
   name: Cyrus Rahimzadeh
