@@ -672,6 +672,16 @@
   email: null
   role: spotlight
   bio: ''
+- id: Vanessa-Sanchez 
+  year: 2026
+  name: Vanessa Sanchez 
+  subtitle: Assistant Professor
+  affiliation: Rice University
+  img: Vanessa-Sanchez-600.webp
+  website:  https://profiles.rice.edu/faculty/vanessa-sanchez
+  email: null
+  role: spotlight
+  bio: ''
 - id: AykutSatici
   year: 2026
   name: Aykut Satici
