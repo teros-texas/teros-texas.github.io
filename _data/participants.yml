@@ -41,35 +41,35 @@
   - name: UTA
     image: UTA_initials.png
     width: 140
-    top: -50
+    top: 0
   - name: UTD
     image: UTD.png
     width: 140
-    top: -50
+    top: 0
   - name: UH
-    image: UH.svg
+    image: UH.png
     width: 140
-    top: -50  
+    top: 0  
   - name: TAMCC
     image: TAMCC.gif
     width: 140
-    top: -50
+    top: 0
   - name: UTSA
     image: UTSA.svg
     width: 140
-    top: -50  
+    top: 0  
   - name: UNT
     image: UNT.png
     width: 140
-    top: -50  
+    top: 0  
   - name: UTEP
     image: UTEP.svg
     width: 140
-    top: -50  
+    top: 0  
   - name: TAMU
     image: tamu.png
     width: 140
-    top: -50
+    top: 0
   - name: UT Austin
     image: ut_austin.png
     width: 70
@@ -77,8 +77,8 @@
   - name: Rice
     image: rice.svg
     width: 120
-    top: 10
+    top: 0
   - name: TMAC
     image: TMAC.png
     width: 140
-    top: -50
+    top: 0
