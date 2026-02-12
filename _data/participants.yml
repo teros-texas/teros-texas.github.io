@@ -48,7 +48,7 @@
     top: 0
   - name: UH
     image: UH.png
-    width: 140
+    width: 110
     top: 0  
   - name: TAMCC
     image: TAMCC.gif
@@ -61,7 +61,7 @@
   - name: UNT
     image: UNT.png
     width: 140
-    top: 0  
+    top: 10  
   - name: UTEP
     image: UTEP.svg
     width: 140
