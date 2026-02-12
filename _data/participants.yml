@@ -38,47 +38,4 @@
     width: 120
     top: 10
   2026:
-  - name: UTA
-    image: UTA_initials.png
-    width: 140
-    top: -50
-  - name: UTD
-    image: UTD.png
-    width: 140
-    top: -50
-  - name: UH
-    image: UH.svg
-    width: 140
-    top: -50  
-  - name: TAMCC
-    image: TAMCC.gif
-    width: 140
-    top: -50
-  - name: UTSA
-    image: UTSA.svg
-    width: 140
-    top: -50  
-  - name: UNT
-    image: UNT.png
-    width: 140
-    top: -50  
-  - name: UTEP
-    image: UTEP.svg
-    width: 140
-    top: -50  
-  - name: TAMU
-    image: tamu.png
-    width: 140
-    top: -50
-  - name: UT Austin
-    image: ut_austin.png
-    width: 70
-    top: 0
-  - name: Rice
-    image: rice.svg
-    width: 120
-    top: 10
-  - name: TMAC
-    image: TMAC.png
-    width: 140
-    top: -50
+
