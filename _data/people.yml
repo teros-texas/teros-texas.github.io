@@ -702,3 +702,23 @@
   email: null
   role: spotlight
   bio: ''
+- id: Richard-Voyles
+  year: 2026
+  name: Richard Voyles
+  subtitle:
+  affiliation: 
+  img: 
+  website:  
+  email: 
+  role: 
+  bio: ''
+- id: Volkan-Isler
+  year: 2026
+  name: Volkan Isler
+  subtitle:
+  affiliation: 
+  img: 
+  website:  
+  email: 
+  role: 
+  bio: ''
