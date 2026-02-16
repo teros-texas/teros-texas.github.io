@@ -308,11 +308,10 @@
 
   - time: "09:45"
     type: panel
-    title: "PanelDiscussion:"
+    title: "Panel Discussion:"
     description: null
-    speakers:
-      - id: Richard-Voyles
-      - id: Volkan-Isler
+    speaker: Richard-Voyles
+    speaker: Volkan-Isler
       - id: unknown-speaker-3
       - id: unknown-speaker-4
     location: null
