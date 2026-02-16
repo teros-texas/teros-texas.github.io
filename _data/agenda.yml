@@ -308,17 +308,13 @@
 
   - time: "09:45"
     type: panel
-    title: "Panel:"
+    title: "PanelDiscussion:"
     description: null
     speakers:
       - id: unknown-speaker-1
-        title: "Unknown Speaker"
       - id: unknown-speaker-2
-        title: "Unknown Speaker"
       - id: unknown-speaker-3
-        title: "Unknown Speaker"
       - id: unknown-speaker-4
-        title: "Unknown Speaker"
     location: null
 
   - time: "10:15"
