@@ -311,8 +311,8 @@
     title: "PanelDiscussion:"
     description: null
     speakers:
-      - id: unknown-speaker-1
-      - id: unknown-speaker-2
+      - id: Richard-Voyles
+      - id: Volkan-Isler
       - id: unknown-speaker-3
       - id: unknown-speaker-4
     location: null
