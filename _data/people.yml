@@ -722,4 +722,14 @@
   email: null
   role: null
   bio: ''
-
+- id: nicholas-gans
+  year: 2026
+  name: Nicholas Gans
+  subtitle: Associate Professor
+  role: null
+  img: Gans.jpg
+  thumbnail: Gans.jpg
+  alt: Picture of Gans
+  topic: Topic
+  affiliation: UT Arlington
+  website: null
