@@ -311,14 +311,14 @@
     title: "Panel Discussion:"
     description: null
     speakers:
-      - id: Richard-Voyles
-        title: "Unknown Speaker"
-      - id: Volken-Isler
-        title: "Unknown Speaker"
+      - id: richard-voyles
+       # title: "Unknown Speaker"
+      - id: volkan-isler
+       # title: "Unknown Speaker"
       - id: unknown-speaker-3
-        title: "Unknown Speaker"
+       # title: "Unknown Speaker"
       - id: unknown-speaker-4
-        title: "Unknown Speaker"
+       # title: "Unknown Speaker"
     location: null
 
   - time: "10:15"
