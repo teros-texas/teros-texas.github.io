@@ -622,7 +622,7 @@
   email: null
   role: spotlight
   bio: ''
-- id: Binghan-He
+- id: binghan-he
   year: 2026
   name: Binghan He
   subtitle: Assistant Professor
@@ -642,7 +642,7 @@
   email: null
   role: spotlight
   bio: ''
-- id: Jeeseop-Kim
+- id: jeeseop-kim
   year: 2026
   name: Jeeseop Kim
   subtitle: Assistant Professor
@@ -652,7 +652,7 @@
   email: null
   role: spotlight
   bio: ''
-- id: Michail-Theofinidis
+- id: michail-theofinidis
   year: 2026
   name: Michail Theofinidis
   subtitle: Research Scientist II
@@ -662,7 +662,7 @@
   email: null
   role: spotlight
   bio: ''
-- id: Yiwei-Lyu
+- id: yiwei-lyu
   year: 2026
   name: Yiwei Lyu
   subtitle: Assistant Professor
@@ -672,7 +672,7 @@
   email: null
   role: spotlight
   bio: ''
-- id: Vanessa-Sanchez 
+- id: vanessa-sanchez
   year: 2026
   name: Vanessa Sanchez 
   subtitle: Assistant Professor
@@ -682,7 +682,7 @@
   email: null
   role: spotlight
   bio: ''
-- id: AykutSatici
+- id: aykut-satici
   year: 2026
   name: Aykut Satici
   subtitle: Associate Professor
@@ -692,7 +692,7 @@
   email: null
   role: spotlight
   bio: ''  
-- id: Cyrus-Rahimzadeh
+- id: cyrus-rahimzadeh
   year: 2026
   name: Cyrus Rahimzadeh
   subtitle: Manager, Automation Engineering

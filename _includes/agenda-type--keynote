@@ -4,7 +4,7 @@
   {% include _error__no_speaker %}
 {% endif %}
 
-{% assign speaker_obj = site.data.teros_2025.people | where: "id", speaker | first %}
+{% assign speaker_obj = site.data.people | where: "id", speaker | first %}
 
 Keynote: <strong>{% if speaker_obj.name %}{{ speaker_obj.name }}{% else %}Unknown Speaker{% endif %}</strong>{% if speaker_obj.affiliation %}, {{ speaker_obj.affiliation }}{% endif %}
 {% if title %}
