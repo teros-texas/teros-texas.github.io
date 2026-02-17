@@ -296,7 +296,7 @@
     title: Introduction of TEROS 2026
     description: null
     speakers:
-      - id: nick-gans
+      - id: nicholas-gans
     location: null
 
   - time: "09:15"
@@ -308,12 +308,12 @@
 
   - time: "09:45"
     type: panel
-    title: "Panel:"
+    title: "Panel Discussion:"
     description: null
     speakers:
-      - id: unknown-speaker-1
+      - id: Richard-Voyles
         title: "Unknown Speaker"
-      - id: unknown-speaker-2
+      - id: Volken-Isler
         title: "Unknown Speaker"
       - id: unknown-speaker-3
         title: "Unknown Speaker"
