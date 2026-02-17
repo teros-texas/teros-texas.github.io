@@ -644,6 +644,16 @@ section h3.section-subheading {
     z-index: 2;
 }
 
+#speakers .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#speakers .speakers-item {
+    display: flex;
+    flex-direction: column;
+}
+
 @media(min-width:767px) {
     #speakers .speakers-item {
 	margin: 0 0 30px;
