@@ -1,3 +1,141 @@
+2026:
+  - time: "08:00"
+    type: logistics
+    title: Registration Desk Open and Posters
+    description: null
+    speakers: null
+    location: null
+
+  - time: "09:00"
+    type: logistics
+    title: Welcome to UTA
+    description: null
+    speakers:
+      - id: richard-voyles
+        title: "Welcome to UTA"
+    location: null
+
+  - time: "09:10"
+    type: logistics
+    title: Introduction of TEROS 2026
+    description: null
+    speakers:
+      - id: nicholas-gans
+    location: null
+
+  - time: "09:15"
+    type: keynote
+    title: "Title TBD"
+    description: null
+    speaker: jose-baca
+    location: null
+
+  - time: "09:45"
+    type: panel
+    title: "Panel Discussion:"
+    description: null
+    speakers:
+      - id: richard-voyles
+       # title: "Unknown Speaker"
+      - id: srikanth-saripalli
+       # title: "Unknown Speaker"
+      - id: unknown-speaker-3
+       # title: "Unknown Speaker"
+      - id: unknown-speaker-4
+       # title: "Unknown Speaker"
+    location: null
+
+  - time: "10:15"
+    type: break
+    title: Break for Networking and Posters
+    description: null
+    speakers: null
+    location: null
+
+  - time: "10:45"
+    type: keynote
+    title: "Title TBD"
+    description: null
+    speaker: aaron-becker
+    location: null
+
+  - time: "11:15"
+    type: spotlight
+    title: "Spotlight Speakers 1"
+    description: null
+    speakers:
+      - id: vanessa-sanchez
+        title: "Encoding Robotic Function in Fabrics"
+      - id: jeeseop-kim
+        title: "Title TBD"
+      - id: binghan-he
+        title: "Title TBD"
+      - id: fangzhou-xia
+        title: "Magnetic Navigation for Capsule Robot Deployment"
+      - id: yiwei-lyu
+        title: "Title TBD"
+    location: null
+
+  - time: "12:05"
+    type: break
+    title: Break for Box Lunches
+    description: null
+    speakers: null
+    location: null
+
+  - time: "13:00"
+    type: keynote
+    title: "Keynote:"
+    description: null
+    speaker: bill-beksi
+    location: null
+
+  - time: "13:30"
+    type: keynote
+    title: "Keynote:"
+    description: null
+    speaker: yu-xiang
+    location: null
+
+  - time: "14:00"
+    type: break
+    title: Break for Networking and Posters
+    description: null
+    speakers: null
+    location: null
+
+  - time: "14:30"
+    type: spotlight
+    title: "Spotlight Speakers 2"
+    description: null
+    speakers:
+      - id: cyrus-rahimzadeh
+        title: "Title TBD"
+      - id: amir-jafari
+        title: "Title TBD"
+      - id: aykut-satici
+        title: "Title TBD"
+      - id: michail-theofinidis
+        title: "Title TBD"
+      - id: unknown-speaker-5
+        title: "Title TBD"
+    location: null
+
+  - time: "15:20"
+    type: logistics
+    title: Closing Remarks
+    description: null
+    speakers: null
+    location: null
+
+  - time: "16:00"
+    type: break
+    title: Networking, Posters, and Lab Tours
+    description: null
+    speakers: null
+    location: null
+    
+##############################
 2023:
   - time: "08:00"
     type: logistics
@@ -274,139 +412,4 @@
     description: null
     speakers: null
     location: SwRI Building 263
-2026:
-  - time: "08:00"
-    type: logistics
-    title: Registration Desk Open and Posters
-    description: null
-    speakers: null
-    location: null
 
-  - time: "09:00"
-    type: logistics
-    title: Welcome to UTA
-    description: null
-    speakers:
-      - id: richard-voyles
-        title: "Welcome to UTA"
-    location: null
-
-  - time: "09:10"
-    type: logistics
-    title: Introduction of TEROS 2026
-    description: null
-    speakers:
-      - id: nicholas-gans
-    location: null
-
-  - time: "09:15"
-    type: keynote
-    title: "Title TBD"
-    description: null
-    speaker: jose-baca
-    location: null
-
-  - time: "09:45"
-    type: panel
-    title: "Panel Discussion:"
-    description: null
-    speakers:
-      - id: richard-voyles
-       # title: "Unknown Speaker"
-      - id: volkan-isler
-       # title: "Unknown Speaker"
-      - id: unknown-speaker-3
-       # title: "Unknown Speaker"
-      - id: unknown-speaker-4
-       # title: "Unknown Speaker"
-    location: null
-
-  - time: "10:15"
-    type: break
-    title: Break for Networking and Posters
-    description: null
-    speakers: null
-    location: null
-
-  - time: "10:45"
-    type: keynote
-    title: "Title TBD"
-    description: null
-    speaker: aaron-becker
-    location: null
-
-  - time: "11:15"
-    type: spotlight
-    title: "Spotlight Speakers 1"
-    description: null
-    speakers:
-      - id: vanessa-sanchez
-        title: "Encoding Robotic Function in Fabrics"
-      - id: jeeseop-kim
-        title: "Title TBD"
-      - id: binghan-he
-        title: "Title TBD"
-      - id: fangzhou-xia
-        title: "Magnetic Navigation for Capsule Robot Deployment"
-      - id: yiwei-lyu
-        title: "Title TBD"
-    location: null
-
-  - time: "12:05"
-    type: break
-    title: Break for Box Lunches
-    description: null
-    speakers: null
-    location: null
-
-  - time: "13:00"
-    type: keynote
-    title: "Keynote:"
-    description: null
-    speaker: bill-beksi
-    location: null
-
-  - time: "13:30"
-    type: keynote
-    title: "Keynote:"
-    description: null
-    speaker: yu-xiang
-    location: null
-
-  - time: "14:00"
-    type: break
-    title: Break for Networking and Posters
-    description: null
-    speakers: null
-    location: null
-
-  - time: "14:30"
-    type: spotlight
-    title: "Spotlight Speakers 2"
-    description: null
-    speakers:
-      - id: cyrus-rahimzadeh
-        title: "Title TBD"
-      - id: amir-jafari
-        title: "Title TBD"
-      - id: aykut-satici
-        title: "Title TBD"
-      - id: michail-theofinidis
-        title: "Title TBD"
-      - id: unknown-speaker-5
-        title: "Title TBD"
-    location: null
-
-  - time: "15:20"
-    type: logistics
-    title: Closing Remarks
-    description: null
-    speakers: null
-    location: null
-
-  - time: "16:00"
-    type: break
-    title: Networking, Posters, and Lab Tours
-    description: null
-    speakers: null
-    location: null
