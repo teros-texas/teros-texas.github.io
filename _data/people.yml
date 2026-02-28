@@ -1,3 +1,186 @@
+  ################################################################################
+# 2026                                                                         #
+################################################################################
+- id: jose-baca
+  year: 2026
+  name: José Baca
+  subtitle: Associate Professor
+  affiliation: Texas A&M University - Corpus Christi
+  img: josebaca.jpg
+  website: https://sites.google.com/site/bacajose/
+  email: null
+  role: keynote
+  bio: ''
+- id: aaron-becker
+  year: 2026
+  name: Aaron Becker
+  subtitle: Professor
+  affiliation: University of Houston
+  img: becker.jpg
+  website: https://www.ee.uh.edu/faculty/becker-aaron
+  email: null
+  role: keynote
+  bio: ''
+- id: bill-beksi
+  year: 2026
+  name: William Beksi
+  subtitle: Associate Professor
+  affiliation: University of Texas at Arlington
+  img: bill-beksi.jpg
+  website: https://ranger.uta.edu/~wjbeksi/
+  email: null
+  role: keynote
+  bio: ''
+- id: yu-xiang
+  year: 2026
+  name: Yu Xiang
+  subtitle: Assistant Professor
+  affiliation: University of Texas at Dallas
+  img: yu_xiang.jpg
+  website: https://yuxng.github.io/
+  email: null
+  role: keynote
+  bio: ''
+#################
+- id: amir-jafari
+  year: 2026
+  name: Amir Jafari
+  subtitle: Associate Professor
+  affiliation: University of North Texas
+  img: amir-jafari.png
+  website:  https://engineering.unt.edu/bme/research/labs/arm/
+  email: null
+  role: spotlight
+  bio: ''
+- id: binghan-he
+  year: 2026
+  name: Binghan He
+  subtitle: Assistant Professor
+  affiliation: University of Texas at San Santonio
+  img: binghan-he.jpg
+  website:  https://www.isabe-lab.com/home
+  email: null
+  role: spotlight
+  bio: ''
+- id: fangzhou-xia
+  year: 2026
+  name: Fangzhou Xia
+  subtitle: Assistant Professor
+  affiliation:  University of Texas at Austin
+  img: Fangzhou_Xia.png
+  website:  https://minimax-lab.com/
+  email: null
+  role: spotlight
+  bio: ''
+- id: jeeseop-kim
+  year: 2026
+  name: Jeeseop Kim
+  subtitle: Assistant Professor
+  affiliation:  University of Texas at  El Paso
+  img: Jeeseop-Kim.jpg
+  website:  https://jeeseop.com/
+  email: null
+  role: spotlight
+  bio: ''
+- id: michail-theofinidis
+  year: 2026
+  name: Michail Theofinidis
+  subtitle: Research Scientist II
+  affiliation:  University of Texas at Arlington
+  img: Michail-Theofinidis.jpg
+  website:  null
+  email: null
+  role: spotlight
+  bio: ''
+- id: yiwei-lyu
+  year: 2026
+  name: Yiwei Lyu
+  subtitle: Assistant Professor
+  affiliation: Texas A&M University
+  img: yiweilyu.png
+  website:  https://www.andrew.cmu.edu/user/yiweilyu/
+  email: null
+  role: spotlight
+  bio: ''
+- id: vanessa-sanchez
+  year: 2026
+  name: Vanessa Sanchez 
+  subtitle: Assistant Professor
+  affiliation: Rice University
+  img: Vanessa-Sanchez-600.webp
+  website:  https://profiles.rice.edu/faculty/vanessa-sanchez
+  email: null
+  role: spotlight
+  bio: ''
+- id: aykut-satici
+  year: 2026
+  name: Aykut Satici
+  subtitle: Associate Professor
+  affiliation:  University of Texas at Dallas
+  img: aykut_headshot.jpg
+  website:  https://symplectomorphism.github.io/
+  email: null
+  role: spotlight
+  bio: ''  
+- id: cyrus-rahimzadeh
+  year: 2026
+  name: Cyrus Rahimzadeh
+  subtitle: Manager, Automation Engineering
+  affiliation:  Texas Manufacturing Assistance Center
+  img: Cyrus-Rahimzadeh.jfif
+  website:  null
+  email: null
+  role: spotlight
+  bio: ''
+- id: richard-voyles
+  year: 2026
+  name: Richard Voyles
+  subtitle: Professor
+  affiliation: University of Texas at Arlington
+  img: null
+  website:  null
+  email: null
+  role: null
+  bio: ''
+- id: volkan-isler
+  year: 2026
+  name: Volkan Isler
+  subtitle: Professor
+  affiliation: University of Texas at Austin
+  img: null
+  website:  null
+  email: null
+  role: null
+  bio: ''
+- id: nicholas-gans
+  year: 2026
+  name: Nicholas Gans
+  subtitle: Associate Professor
+  role: null
+  img: Gans.jpg
+  thumbnail: Gans.jpg
+  alt: Picture of Gans
+  topic: Topic
+  affiliation: University of Texas at Arlington
+  website: null
+- id: srikanth-saripalli 
+  year: 2026
+  name: Srikanth Saripalli 
+  subtitle:  Professor
+  role: null
+  img: null
+  thumbnail: null 
+  affiliation: Texas A&M University
+  website: null
+- id: paul-evans
+  year: 2026
+  name: Paul Evans
+  subtitle: Executive Director
+  affiliation: Southwest Research Institute
+  img: evans_paul.jpg
+  website: null
+  role: null
+
 ################################################################################
 # 2023                                                                         #
 ################################################################################
@@ -568,185 +751,4 @@
   name: Kamel Saidi
   affiliation: NIST
 
-  ################################################################################
-# 2026                                                                         #
-################################################################################
-- id: jose-baca
-  year: 2026
-  name: José Baca
-  subtitle: Associate Professor
-  affiliation: Texas A&M University - Corpus Christi
-  img: josebaca.jpg
-  website: https://sites.google.com/site/bacajose/
-  email: null
-  role: keynote
-  bio: ''
-- id: aaron-becker
-  year: 2026
-  name: Aaron Becker
-  subtitle: Professor
-  affiliation: University of Houston
-  img: becker.jpg
-  website: https://www.ee.uh.edu/faculty/becker-aaron
-  email: null
-  role: keynote
-  bio: ''
-- id: bill-beksi
-  year: 2026
-  name: William Beksi
-  subtitle: Associate Professor
-  affiliation: University of Texas at Arlington
-  img: bill-beksi.jpg
-  website: https://ranger.uta.edu/~wjbeksi/
-  email: null
-  role: keynote
-  bio: ''
-- id: yu-xiang
-  year: 2026
-  name: Yu Xiang
-  subtitle: Assistant Professor
-  affiliation: University of Texas at Dallas
-  img: yu_xiang.jpg
-  website: https://yuxng.github.io/
-  email: null
-  role: keynote
-  bio: ''
-#################
-- id: amir-jafari
-  year: 2026
-  name: Amir Jafari
-  subtitle: Associate Professor
-  affiliation: University of North Texas
-  img: amir-jafari.png
-  website:  https://engineering.unt.edu/bme/research/labs/arm/
-  email: null
-  role: spotlight
-  bio: ''
-- id: binghan-he
-  year: 2026
-  name: Binghan He
-  subtitle: Assistant Professor
-  affiliation: University of Texas at San Santonio
-  img: binghan-he.jpg
-  website:  https://www.isabe-lab.com/home
-  email: null
-  role: spotlight
-  bio: ''
-- id: fangzhou-xia
-  year: 2026
-  name: Fangzhou Xia
-  subtitle: Assistant Professor
-  affiliation:  University of Texas at Austin
-  img: Fangzhou_Xia.png
-  website:  https://minimax-lab.com/
-  email: null
-  role: spotlight
-  bio: ''
-- id: jeeseop-kim
-  year: 2026
-  name: Jeeseop Kim
-  subtitle: Assistant Professor
-  affiliation:  University of Texas at  El Paso
-  img: Jeeseop-Kim.jpg
-  website:  https://jeeseop.com/
-  email: null
-  role: spotlight
-  bio: ''
-- id: michail-theofinidis
-  year: 2026
-  name: Michail Theofinidis
-  subtitle: Research Scientist II
-  affiliation:  University of Texas at Arlington
-  img: Michail-Theofinidis.jpg
-  website:  null
-  email: null
-  role: spotlight
-  bio: ''
-- id: yiwei-lyu
-  year: 2026
-  name: Yiwei Lyu
-  subtitle: Assistant Professor
-  affiliation: Texas A&M University
-  img: yiweilyu.png
-  website:  https://www.andrew.cmu.edu/user/yiweilyu/
-  email: null
-  role: spotlight
-  bio: ''
-- id: vanessa-sanchez
-  year: 2026
-  name: Vanessa Sanchez 
-  subtitle: Assistant Professor
-  affiliation: Rice University
-  img: Vanessa-Sanchez-600.webp
-  website:  https://profiles.rice.edu/faculty/vanessa-sanchez
-  email: null
-  role: spotlight
-  bio: ''
-- id: aykut-satici
-  year: 2026
-  name: Aykut Satici
-  subtitle: Associate Professor
-  affiliation:  University of Texas at Dallas
-  img: aykut_headshot.jpg
-  website:  https://symplectomorphism.github.io/
-  email: null
-  role: spotlight
-  bio: ''  
-- id: cyrus-rahimzadeh
-  year: 2026
-  name: Cyrus Rahimzadeh
-  subtitle: Manager, Automation Engineering
-  affiliation:  Texas Manufacturing Assistance Center
-  img: Cyrus-Rahimzadeh.jfif
-  website:  null
-  email: null
-  role: spotlight
-  bio: ''
-- id: richard-voyles
-  year: 2026
-  name: Richard Voyles
-  subtitle: Professor
-  affiliation: University of Texas at Arlington
-  img: null
-  website:  null
-  email: null
-  role: null
-  bio: ''
-- id: volkan-isler
-  year: 2026
-  name: Volkan Isler
-  subtitle: Professor
-  affiliation: University of Texas at Austin
-  img: null
-  website:  null
-  email: null
-  role: null
-  bio: ''
-- id: nicholas-gans
-  year: 2026
-  name: Nicholas Gans
-  subtitle: Associate Professor
-  role: null
-  img: Gans.jpg
-  thumbnail: Gans.jpg
-  alt: Picture of Gans
-  topic: Topic
-  affiliation: University of Texas at Arlington
-  website: null
-- id: srikanth-saripalli 
-  year: 2026
-  name: Srikanth Saripalli 
-  subtitle:  Professor
-  role: null
-  img: null
-  thumbnail: null 
-  affiliation: Texas A&M University
-  website: null
-- id: paul-evans
-  year: 2026
-  name: Paul Evans
-  subtitle: Executive Director
-  affiliation: SwRI
-  img: evans_paul.jpg
-  website: null
-  role: null
+
