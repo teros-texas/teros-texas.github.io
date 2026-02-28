@@ -742,4 +742,11 @@
   thumbnail: null 
   affiliation: Texas A&M University
   website: null
-  
+- id: paul-evans
+  year: 2026
+  name: Paul Evans
+  subtitle: Executive Director
+  affiliation: SwRI
+  img: evans_paul.jpg
+  website: null
+  role: null
