@@ -42,16 +42,15 @@
   role: keynote
   bio: ''
 #################
-- id: amir-jafari
+
+- id: nick-fey
   year: 2026
-  name: Amir Jafari
+  name: Nick Fey
   subtitle: Associate Professor
-  affiliation: University of North Texas
-  img: amir-jafari.png
-  website:  https://engineering.unt.edu/bme/research/labs/arm/
-  email: null
+  affiliation: University of Texas at Austin
+  img: Fey-Nick.jpg
+  website: https://www.me.utexas.edu/people/faculty-directory/fey
   role: spotlight
-  bio: ''
 - id: binghan-he
   year: 2026
   name: Binghan He
@@ -62,13 +61,13 @@
   email: null
   role: spotlight
   bio: ''
-- id: fangzhou-xia
+- id: amir-jafari
   year: 2026
-  name: Fangzhou Xia
-  subtitle: Assistant Professor
-  affiliation:  University of Texas at Austin
-  img: Fangzhou_Xia.png
-  website:  https://minimax-lab.com/
+  name: Amir Jafari
+  subtitle: Associate Professor
+  affiliation: University of North Texas
+  img: amir-jafari.png
+  website:  https://engineering.unt.edu/bme/research/labs/arm/
   email: null
   role: spotlight
   bio: ''
@@ -82,16 +81,6 @@
   email: null
   role: spotlight
   bio: ''
-- id: michail-theofinidis
-  year: 2026
-  name: Michail Theofinidis
-  subtitle: Research Scientist II
-  affiliation:  University of Texas at Arlington
-  img: Michail-Theofinidis.jpg
-  website:  null
-  email: null
-  role: spotlight
-  bio: ''
 - id: yiwei-lyu
   year: 2026
   name: Yiwei Lyu
@@ -99,6 +88,16 @@
   affiliation: Texas A&M University
   img: yiweilyu.png
   website:  https://www.andrew.cmu.edu/user/yiweilyu/
+  email: null
+  role: spotlight
+  bio: ''
+- id: cyrus-rahimzadeh
+  year: 2026
+  name: Cyrus Rahimzadeh
+  subtitle: Manager, Automation Engineering
+  affiliation:  Texas Manufacturing Assistance Center
+  img: Cyrus-Rahimzadeh.jfif
+  website:  null
   email: null
   role: spotlight
   bio: ''
@@ -122,16 +121,27 @@
   email: null
   role: spotlight
   bio: ''  
-- id: cyrus-rahimzadeh
+- id: michail-theofinidis
   year: 2026
-  name: Cyrus Rahimzadeh
-  subtitle: Manager, Automation Engineering
-  affiliation:  Texas Manufacturing Assistance Center
-  img: Cyrus-Rahimzadeh.jfif
+  name: Michail Theofinidis
+  subtitle: Research Scientist II
+  affiliation:  University of Texas at Arlington
+  img: Michail-Theofinidis.jpg
   website:  null
   email: null
   role: spotlight
   bio: ''
+- id: fangzhou-xia
+  year: 2026
+  name: Fangzhou Xia
+  subtitle: Assistant Professor
+  affiliation:  University of Texas at Austin
+  img: Fangzhou_Xia.png
+  website:  https://minimax-lab.com/
+  email: null
+  role: spotlight
+  bio: ''
+######################
 - id: richard-voyles
   year: 2026
   name: Richard Voyles
@@ -180,14 +190,7 @@
   img: evans_paul.jpg
   website: null
   role: null
-- id: nick-fey
-  year: 2026
-  name: Nick Fey
-  subtitle: Associate Professor
-  affiliation: University of Texas at Austin
-  img: Fey-Nick.jpg
-  website: https://www.me.utexas.edu/people/faculty-directory/fey
-  role: spotlight
+
 ################################################################################
 # 2023                                                                         #
 ################################################################################
