@@ -56,9 +56,7 @@
     type: keynote
     title: "Big-Brother and Drone Observers"
     description: null
-    speakers:
-      - id: aaron-becker
-        title: "Big-Brother and Drone Observers"
+    speaker: aaron-becker
     location: null
 
   - time: "11:15"
