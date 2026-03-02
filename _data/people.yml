@@ -180,7 +180,14 @@
   img: evans_paul.jpg
   website: null
   role: null
-
+- id: nick-fey
+  year: 2026
+  name: Nick Fey
+  subtitle: Associate Professor
+  affiliation: University of Texas at Austin
+  img: Fey-Nick.jpg
+  website: null
+  role: null
 ################################################################################
 # 2023                                                                         #
 ################################################################################
