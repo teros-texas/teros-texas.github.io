@@ -190,6 +190,24 @@
   img: evans_paul.jpg
   website: null
   role: null
+- id: lilly-chin 
+  year: 2026
+  name: Lillian Chin
+  subtitle:  Assistant Professor
+  role: null
+  img: null
+  thumbnail: null 
+  affiliation: University of Texas at Austin
+  website: null
+  - id: keya-ghonasgi 
+  year: 2026
+  name: Keya Ghonasgi
+  subtitle:  Assistant Professor
+  role: null
+  img: null
+  thumbnail: null 
+  affiliation: Rice University
+  website: null
 
 ################################################################################
 # 2023                                                                         #
