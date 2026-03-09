@@ -192,7 +192,7 @@
   website: null
   role: null
   
-- id: lilly-chin 
+- id: lilly-chin
   year: 2026
   name: Lillian Chin
   subtitle:  Assistant Professor
@@ -201,7 +201,7 @@
   thumbnail: null 
   affiliation: University of Texas at Austin
   website: null
-  - id: keya-ghonasgi 
+- id: keya-ghonasgi 
   year: 2026
   name: Keya Ghonasgi
   subtitle:  Assistant Professor
