@@ -36,15 +36,10 @@
     description: null
     speakers:
       - id: richard-voyles
-       # title: "Unknown Speaker"
       - id: srikanth-saripalli
-       # title: "Unknown Speaker"
       - id: paul-evans
-       # title: "Unknown Speaker"
-      - id: unknown-speaker-4
-       # title: "Unknown Speaker"
-      - id: unknown-speaker-4
-       # title: "Unknown Speaker"
+      - id: lilly-chin
+      - id: keya-ghonasgi
     location: null
 
   - time: "10:15"
