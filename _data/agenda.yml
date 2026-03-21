@@ -107,7 +107,7 @@
     description: null
     speakers:
       - id: cyrus-rahimzadeh
-        title: "Title TBD"
+        title: "From Lab to Line: What Matters in Real-World Robotics Deployment"
       - id: amir-jafari
         title: "Thermo-Active Compliant Soft Actuators for Safe Physical Human–Robot Interaction"
       - id: aykut-satici
