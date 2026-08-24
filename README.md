@@ -6,7 +6,7 @@ Then, clone this repo to your local machine: `git clone https://github.com/teros
 Run the following commands to install plugins: 
 ```
 cd teros-texas.github.io
-git checkout teros2023
+git checkout 2027
 bundle install
 ```
 
@@ -24,6 +24,6 @@ To update the home page contents, please see `_layouts/teros_2023_home.html`.
 To update the navigation bar, please see `_include/teros_2023_data/header-home.html`
 
 
-## Spring 2026: Coming to Arlington!
+## Spring 2027: Coming to the Space Institute in Clear Lake, TX!
 
-The Univeristy of Texas at Arlington
+Texas A&M will Host in the Houston area, Friday April 9th, 2027

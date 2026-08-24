@@ -1,3 +1,80 @@
+2027:
+  - time: "08:00"
+    type: logistics
+    title: Registration Desk opens
+    location: Hallway
+  - time: "08:45"
+    type: logistics
+    title: Welcome
+    speaker:
+      id: rob-ambrose
+    location: TBD
+  - time: "09:00"
+    type: keynote
+    title: TBD
+    speaker: TBD
+    location: TBD
+  - time: "09:30"
+    type: keynote
+    title: TBD
+    speaker: TBD
+    location: TBD
+  - time: "10:00"
+    type: break
+    title: Posters / Industry Booths / Coffee
+    location: TBD
+  - time: "11:00"
+    type: spotlight
+    title: Spotlight Speakers 1
+    speakers:
+      - id: TBD
+        title: TBD
+      - id: TBD
+        title: TBD
+      - id: TBD
+        title: TBD
+      - id: TBD
+        title: TBD
+    location: TBD
+  - time: "12:00"
+    type: break
+    title: Lunch / Networking
+    location: TBD
+  - time: "13:30"
+    type: keynote
+    title: TBD
+    speaker: TBD
+    location: TBD
+  - time: "14:00"
+    type: keynote
+    title: TBD
+    speaker: TBD
+    location: TBD
+  - time: "14:30"
+    type: break
+    title: Posters / Industry Booths / Coffee
+    location: TBD
+  - time: "15:00"
+    type: spotlight
+    title: Spotlight Speakers 2
+    speakers:
+      - id: TBD
+        title: TBD
+      - id: TBD
+        title: TBD
+      - id: TBD
+        title: TBD
+      - id: TBD
+        title: TBD
+    location: Chevron Rooms
+  - time: "16:00"
+    type: logistics
+    title: Organizers' Closing Remarks and TEROS 2025
+    location: TBD
+  - time: "16:15"
+    type: break
+    title: Networking / Coffee
+    location: TBD
 2026:
   - time: "08:00"
     type: logistics
